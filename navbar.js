@@ -1,7 +1,7 @@
 async function navbar(currentPage, target){
     let dropdown = await categoryDropdown(currentPage);
     generatedNavbar = `<div class="navbar">
-        <img src="images/Logo.png"/>
+        <img class="navbar-item" src="./Logo.png"/>
         <a class="navbar-item" href="./index.html">Home</a>
         ${dropdown}
         <a class="navbar-item" href="./about.html">About</a>
