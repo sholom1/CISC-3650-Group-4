@@ -1,14 +1,555 @@
 {
-    "categoryName":[
+    "pen":[
         {
-            "name":"",
-            "description":"",
-            "rating":0.8,
-            "quantity":10,
+            "image":"https://m.media-amazon.com/images/I/9144Be0-HNL._AC_SX466_.jpg",
+            "description":"Zebra Pen Z-Grip Retractable Ballpoint Pen, Medium Point, 1.0mm, Black Ink. ",
+            "rating":4.6,
+            "quantity":24,
             "price":7.54,
             "retailer":"Amazon",
-            "link":""
+            "link":"https://www.amazon.com/Zebra-Pen-Retractable-Ballpoint-18-Count/dp/B00M382RJO/ref=sr_1_1?crid=28IFNRSTH0WRH&keywords=Zebra%2BPen%2BZ-Grip%2BRetractable&qid=1650499769&sprefix=zebra%2Bpen%2Bz-grip%2Bretractable%2Caps%2C130&sr=8-1&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/91Syo5TbJ7L._AC_SX466_.jpg",
+            "description":"Gel pen with no smear, no bleed technology; intensely bold gel ink colors offer always vivid writing; Bold Point (1. 0mm);.",
+            "rating":4.8,
+            "quantity":12,
+            "price":12.89,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Sharpie-S-Gel-Point-1-0mm-Black/dp/B082PMXT2M/ref=sr_1_22?crid=2GLU92YN1B0NM&keywords=Gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%3B&qid=1650499937&sprefix=gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%2B%2Caps%2C160&sr=8-22&th=1" 
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/81dtjODfSYL._AC_SX466_.jpg",
+            "description":"Uni-ball 207 Gel black ink pens feature exclusive uni Super Ink with three-way protection against water, fading, and fraud. ",
+            "rating":4.7,
+            "quantity":12,
+            "price":13.98,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/uni-ball-Retractable-Medium-Point-Black/dp/B000FDR47E/ref=sr_1_2_sspa?crid=3D35F02GO3KEP&keywords=Uni-ball%2B207%2BGel%2Bblack%2Bink%2Bpens%2Bfeature&qid=1650500248&sprefix=uni-ball%2B207%2Bgel%2Bblack%2Bink%2Bpens%2Bfeature%2Caps%2C207&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRkZJSzg1VTJZUTJPJmVuY3J5cHRlZElkPUEwMzIyNjg1MUpJS0o1MVVGVEI3NSZlbmNyeXB0ZWRBZElkPUEwNjYyMTI3MVAyNDhKMENDOExITyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71Epm-3bJoL._AC_SX466_.jpg",
+            "description":"Super-smooth writing; Comfortable rubber grip \nRetractable & refillable; Long lasting",
+            "rating":4.8,
+            "quantity":12,
+            "price":16.99,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Pilot-Retractable-Premium-Roller-31020/dp/B001GAOTSW/ref=psdc_1069828_t2_B08VTWBRH5?th=1"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/eb38a8d4-73f0-434b-bad1-4ce52799a11a.70bf7ee6db7e064794bae533f0163591.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"Water-resistant smear proof ink;\npen type: gel; ink color: black; \npoint type: fine; point size: 0.7 mm",
+            "rating":4.7,
+            "quantity":5,
+            "price":6.63,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/Pilot-G2-Premium-Retractable-Gel-Ink-Rolling-Ball-Pens-Fine-Point-0-7-mm-Black-Ink-4-Count-17209153/17209153"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/42fb7dfa-b081-43cc-ac80-74731cf82578_1.6fe3ffeb7894b340bacf0fcac0355a6b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"BIC Gel-ocity Quick Dry Retractable Gel Pens deliver a super-smooth writing experience that keeps your thoughts flowing. \n0.7 mm medium point creates vivid lines",
+            "rating":4.9,
+            "quantity":2,
+            "price":2.47,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/BIC-Gel-ocity-Quick-Dry-Retractable-Gel-Pen-Medium-Point-0-7-mm-Black-2-Count/188922833?athbdg=L1300"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_84148b12-7ccd-451e-8bdd-247e4f803a30?wid=800&hei=800&qlt=80&fmt=pjpeg",
+            "description":"Medium point (1.0mm) with tungsten carbide ball for effortlessly smooth writing. \nIncludes 10 BIC Ballpoint Stic Pens in Black ink.",
+            "rating":4.7,
+            "quantity":10,
+            "price":1.59,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/bic-xtra-life-ballpoint-pens-medium-tip-10ct-black/-/A-16951588#lnk=sametab"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_de8ba4cc-3a3f-441c-9296-65795792bc37?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"Smooth gel ink for a fluid writing experience \nFeatures: Retractable, Quick Drying, Pocket Clip \nInk Color: Black; Point size: 0.7mm",
+            "rating":4.8,
+            "quantity":6,
+            "price":9.99,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/paper-mate-ink-joy-6pk-gel-pens-0-7mm-medium-tip-black/-/A-51912448#lnk=sametab"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/sp44342934_sc7?wid=700&hei=700",
+            "description":"Retractable gel pens for everyday writing tasks \nBlack ink has a rich color for excellent readability \n0.7mm medium tip",
+            "rating":5.0,
+            "quantity":6,
+            "price":12.79,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Pentel-EnerGel-RTX-Retractable-Gel-Pens-Medium-Black-Ink-6-Pack/product_409634"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/sp163415529_sc7?wid=700&hei=700",
+            "description":"Featuring black ink, these pens offer a strong contrast against white or yellow paper so your writing is easy to see. \n1.0mm medium point for accuracy",
+            "rating":5.0,
+            "quantity":36,
+            "price":22.39,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Paper-Mate-InkJoy-300RT-Retractable-Ballpoint-Pens-Medium-Point-Black-Box-of-36-1951378/product_1231065"
         }
     ],
-    "test":[]
+    "pencil":[
+        {
+            "image":"https://m.media-amazon.com/images/I/71ktFdNm+xL._AC_SX679_.jpg",
+            "description":"30 wood case #2 HB pencils made from high-quality wood come presharpened \nStrong medium-soft lead produces long-lasting, smooth, readable strokes",
+            "rating":4.8,
+            "quantity":30,
+            "price":4.62,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/AmazonBasics-Pre-sharpened-Wood-Cased-Pencils/dp/B071JM699B/ref=sr_1_1_sspa?keywords=Pencils&qid=1650502239&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUDM4RElVUUVUOTFOJmVuY3J5cHRlZElkPUEwNzE0OTIxWUJSWEVKTTg4TDdPJmVuY3J5cHRlZEFkSWQ9QTA2NTI0MjhZVzVYODNSNjZOTFkmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/41LlkVU0XaL._AC_.jpg",
+            "description":"Exclusive #2 graphite formula provides extra smooth performance \nPre-sharpened to save you time \nTop quality, latex-free eraser provides easy, clean corrections",
+            "rating":4.8,
+            "quantity":30,
+            "price":6.52,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Ticonderoga-Wood-Cased-Graphite-Pre-Sharpened-13830/dp/B006CSPZK4/ref=sr_1_6?keywords=Pencils&qid=1650502239&sr=8-6"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/81NcHcP-bFL._AC_SX679_.jpg",
+            "description":"One 24-count pack of BIC Xtra-Sparkle Number 2 Mechanical Pencils With Erasers \nVersatile 0.7mm medium point is ideal for a variety of everyday writing activities",
+            "rating":4.8,
+            "quantity":24,
+            "price":6.68,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/BIC-Xtra-Sparkle-Mechanical-Pencil-24-Count/dp/B0007L1VLO/ref=sr_1_12?keywords=Pencils&qid=1650502239&sr=8-12&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/91gslxvMZ-L._AC_SY450_.jpg",
+            "description":"Thick 1.3mm lead for less breakage \nTriangular shape that guides finger placement \nIncludes: 5 triangle pencils for kids in fun barrel colors, 12 lead refills and 2 eraser refills",
+            "rating":4.8,
+            "quantity":5,
+            "price":3.48,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Paper-Mate-Handwriting-Triangular-2017483/dp/B077Q4B6YN/ref=zg_bs_1069816_9/131-6458513-6315731?pd_rd_i=B09Q6BRZLR&th=1"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/f7e6f507-5c2d-4e8d-b532-9013c3c9c4f1_1.554bea1ffb1eb77a269b145c11c3394e.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"Three #2 leads per pencil \n0.9 mm Thick point \nSoft rubber grip for writing comfort and control",
+            "rating":4.8,
+            "quantity":5,
+            "price":4.46,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/BIC-Velocity-Mechanical-Pencil-0-9mm-Black-4-Pack/14977438?athbdg=L1300"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/0b1e61be-79cc-4551-86a1-670f006f5fa5_1.eb5ef8790c0e107c17158afbc7e5f6c5.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"Versatile 0.7mm pencil features polished metal accents for a sleek design \nPack includes 2 BIC Velocity Pro Mechanical Pencils and refill tube with 12 additional leads and 5 erasers",
+            "rating":4.8,
+            "quantity":2,
+            "price":2.94,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/BIC-Velocity-Pro-Mechanical-Pencil-Medium-Point-0-7mm-Assorted-Colored-Barrels-2-Count/932796304"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_c05d619a-922b-4bfd-b8f0-8b054ed16c97?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"Made from real wood, these pencils feature a #2 lead for smooth and easy writing, making them just the right pick for everyday writing needs at school, office or home. Easy to sharpen, these wooden pencils feature 100% latex erasers for your convenience. ",
+            "rating":4.7,
+            "quantity":24,
+            "price":0.99,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/2-wood-pencils-24ct-up-38-up-8482/-/A-10805587#lnk=sametab"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_03c5a0df-4ed0-4551-b773-d4079154aff2?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"Exclusive #2 graphite formula provides extra smooth performance \nMade with premium wood from responsibly sourced forests \nPMA certified non-toxic",
+            "rating":4.7,
+            "quantity":12,
+            "price":2.99,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/ticonderoga-12pk-2-wooden-pencils-yellow/-/A-13300045#lnk=sametab"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/sp42172245_sc7?wid=512&hei=512",
+            "description":"High-quality wooden pencils \nFeatures 2.2mm lead for smooth, polished writing \nPre-sharpened pencils ready for immediate use",
+            "rating":5.0,
+            "quantity":18,
+            "price":6.59,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Dixon-Ticonderoga-Presharpened-2-Pencil-Yellow-18-Pack/product_731727"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/sp47572655_sc7?wid=512&hei=512",
+            "description":"Mechanical pencils are ready to use right out of the box \n0.5mm, No. 2 medium lead provides smooth, clear writing",
+            "rating":4.5,
+            "quantity":2,
+            "price":9.79,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Pentel-Sharp-Mechanical-Pencils-5mm-Black-Barrel-2-Pack/product_434350"
+        }       
+
+    ],    
+    "notebook":[
+        {
+            "image":"https://m.media-amazon.com/images/I/71cPF2jH8wS._AC_SX679_.jpg",
+            "description":"5 subject notebook has 200 double-sided \nCollege ruled sheets \nFour 2-pocket dividers hold 11 x 8-1/2 sheets \nFights ink bleed",
+            "rating":4.8,
+            "quantity":1,
+            "price":5.68,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Five-Star-Notebook-Subject-73635/dp/B07DPLLXS9/ref=sr_1_4?crid=37CJL38GTF4PS&keywords=notebook&qid=1650821615&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=n%2Caps%2C698&sr=1-4&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/81yIR74FWeL._AC_SX679_.jpg",
+            "description":"Wirebound notebook \nCollege ruled \nPaper measures 8 by 10.5 inches \n92% brightness",
+            "rating":4.8,
+            "quantity":5,
+            "price":8.52,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/AmazonBasics-Wirebound-Notebook-100-Sheet-Assorted/dp/B07D2Q3JRZ/ref=sr_1_7?crid=37CJL38GTF4PS&keywords=notebook&qid=1650821615&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=n%2Caps%2C698&sr=1-7&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/81q1mVdjRaL._AC_SX679_.jpg",
+            "description":"Composition Wide Ruled notebook with 100 sheets of paper \nWide-ruled format \n92% brightness",
+            "rating":4.8,
+            "quantity":4,
+            "price":6.41,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/AmazonBasics-Composition-Notebook-100-Sheet-Assorted/dp/B07D2PQH48/ref=sr_1_10?crid=37CJL38GTF4PS&keywords=notebook&qid=1650821615&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=n%2Caps%2C698&sr=1-10&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71ml+2sJrhL._AC_SX679_.jpg",
+            "description":"Spiral Notebook 6 Pack, 1 Subject \nWide Ruled Paper \nSize: 8 x 10-1/2 Inch \n70 Sheets",
+            "rating":4.8,
+            "quantity":6,
+            "price":10.75,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Oxford-Spiral-Notebook-Subject-63757/dp/B08VF9VYLZ/ref=sr_1_11?crid=37CJL38GTF4PS&keywords=notebook&qid=1650821615&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=n%2Caps%2C698&sr=1-11"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/3f8cfff3-9a2c-4c3a-8339-894bd073330b.f36270bc33feb9750ccf843edb56d557.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"Spiral-bound Wide ruled notebook \n70 pages \nDurable front and back covers \nSize:8 x 10.5",
+            "rating":4.7,
+            "quantity":1,
+            "price":0.94,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/Pen-Gear-1-Subject-Notebook-Wide-Ruled-Blue-70-Sheets/481028182"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/ab47cf1b-25b4-4aac-8d3c-c8fa20921d09.dfbf49a9d4e35a295b22154a182bec2c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"Durable cover to protect from spills and wear \n100 pages \nWide rule Size: 7.5 x 9.75",
+            "rating":4.7,
+            "quantity":1,
+            "price":0.97,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/Pen-Gear-Composition-Book-Wide-Ruled-100-Pages-9-75-x-7-5/103474220?athbdg=L1600"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_ad5d0716-e008-4a0c-aafe-91895133921c?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"3 subject notebook contains 150 college ruled sheets, which are ink bleed resistant \n2 pocket page reinforced divider is included to store loose sheets",
+            "rating":4.7,
+            "quantity":3,
+            "price":4.79,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/five-star-3-subject-college-ruled-spiral-notebook-colors-may-vary/-/A-14045827#lnk=sametab"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_8bc7f668-b620-4eff-b76c-76ff3c3b706f?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"1 subject. 100 college ruled sheets fight ink bleed \nReinforced 2-pocket divider. Water resistant covers",
+            "rating":4.7,
+            "quantity":1,
+            "price":3.39,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/five-star-1-subject-college-ruled-spiral-notebook-colors-may-vary/-/A-14430607#lnk=sametab"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/sp38165102_sc7?wid=512&hei=512",
+            "description":"This 8 inch x 10.5 inch notebook has 70 sheets \nCollege-ruled for efficient use of space \nAvailable in assorted colors",
+            "rating":5.0,
+            "quantity":1,
+            "price":2.29,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Staples-1-Subject-Notebook-College-Ruled-8-x-10-1-2-Assorted-Colors-27498M/product_1485056"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/s1186181_sc7?wid=512&hei=512",
+            "description":"70 sheets of wide-ruled paper for efficient use of space \nAssorted-color duplex cardstock cover \nSix per pack",
+            "rating":4.5,
+            "quantity":6,
+            "price":9.99,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Staples-1-Subject-Notebook-8-x-10-1-2-6-Pack/product_201350"
+        }
+    ],
+    "printing paper":[
+        {
+            "image":"https://m.media-amazon.com/images/I/71gl0ZOkBqS._AC_SX679_.jpg",
+            "description":"3 reams of 8.5 x 11 inch multipurpose copy paper (1,500 sheets total) \n92 brightness",
+            "rating":4.8,
+            "quantity":3,
+            "price":18.03,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/AmazonBasics-Bright-Multipurpose-Copy-Paper/dp/B01FV0F75G/ref=sr_1_1_sspa?crid=WGNAX52BMC3R&keywords=printing%2Bpaper&qid=1650822635&s=office-products&sprefix=printing%2Bpape%2Coffice-products%2C955&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFZSzhWTVVINThWODAmZW5jcnlwdGVkSWQ9QTA2NTQyOTExQVZXNUxMSEJKR0xRJmVuY3J5cHRlZEFkSWQ9QTAxMTQ5MjEzVkdKVVMySUpMQk0md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71Ui3dxCZ9L._AC_SX679_.jpg",
+            "description":"8.5 x 11 Paper \nWeight: 20 lb \n3 Ream Case - 1500 Sheets \n92 Bright",
+            "rating":4.8,
+            "quantity":3,
+            "price":18.88,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/HP-Printer-Paper-Office20-112090C/dp/B01FIK0PXI/ref=sr_1_5?crid=WGNAX52BMC3R&keywords=printing%2Bpaper&qid=1650822635&s=office-products&sprefix=printing%2Bpape%2Coffice-products%2C955&sr=1-5&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71vQvmuLVUL._AC_SX679_.jpg",
+            "description":"20 Lb Copy Paper \nSize: 8.5 x 11 - 3 Ream (1,500 Sheets) \n92 Bright",
+            "rating":4.7,
+            "quantity":3,
+            "price":22.79,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Hammermill-Printer-Paper-Copy-8-5/dp/B06XRMJPJC/ref=sr_1_3_sspa?crid=WGNAX52BMC3R&keywords=printing%2Bpaper&qid=1650822635&s=office-products&sprefix=printing%2Bpape%2Coffice-products%2C955&sr=1-3-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFZSzhWTVVINThWODAmZW5jcnlwdGVkSWQ9QTA2NTQyOTExQVZXNUxMSEJKR0xRJmVuY3J5cHRlZEFkSWQ9QTAzNjI1NTMzTFdSUldZNlVJUllOJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71YriwrbQeL._AC_SX679_.jpg",
+            "description":"Premium Inkjet & Laser Paper 24 Lb \nSize: 8.5 x 11 - 1 Ream (500 Sheets) \n97 Bright",
+            "rating":4.8,
+            "quantity":1,
+            "price":7.98,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Hammermill-Premium-Multipurpose-166140R-Packaging/dp/B00OCR0A4I/ref=sr_1_7?crid=WGNAX52BMC3R&keywords=printing%2Bpaper&qid=1650822635&s=office-products&sprefix=printing%2Bpape%2Coffice-products%2C955&sr=1-7&th=1"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/0566b453-3caa-45f9-8209-d6d6fb018558.ccf4e235bc5e7b96e2fbd7eade0e64f9.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"HP printer white paper \nSize: 8.5x11 \nWeight: 20lb \n96 Bright",
+            "rating":4.7,
+            "quantity":1,
+            "price":8.97,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/HP-Printer-Paper-Multipurpose20-8-5x11-20lb-96-Bright-1-Ream/32899693"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/a28e8c96-8b8a-4f9f-bf18-f9f06aa5341a.7c12edb734928207750f13144bca10cc.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"HP printer white paper \nWeight: 20lb \nSize: 8.5x11 \n3 Ream \n1500 Shts",
+            "rating":4.7,
+            "quantity":3,
+            "price":24.92,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/HP-Printer-Paper-Copy-Print-20lb-8-5x11-3-Ream-1500-Shts/888038824"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_f1ec0007-c95c-4793-86d4-5e778ada90b3?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"Paper Size: 8.5 x 11 Inches (Letter) \nPackage Quantity: 500 \nPaper weight: 20 Pounds \nPaper Brightness: 92",
+            "rating":4.8,
+            "quantity":1,
+            "price":5.59,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/500ct-letter-printer-paper-white-up-38-up-8482/-/A-75001545#lnk=sametab"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_3131d1d7-e918-4d0a-be80-82b2205e65fc?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"Paper Size: 8.5 x 11 Inches (Letter) \nPaper Brightness: 92 \n100% recycled printer paper for sustainability \nPackage Quantity: 500",
+            "rating":4.6,
+            "quantity":1,
+            "price":8.19,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/500ct-100-recycled-letter-printer-paper-white-up-38-up-8482/-/A-78015942#lnk=sametab"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/s1210627_sc7?wid=512&hei=512",
+            "description":"Paper dimensions: 8.5W x 11L (US letter) \nBrightness rating of 92 for sharp, clear print results \n500 sheets per ream, 3 reams per carton, 1500 sheets total",
+            "rating":4.5,
+            "quantity":3,
+            "price":19.89,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/tru-red-8-5-x-11-printer-paper-20-lbs-92-brightness-500-ream-3-reams-carton-tr56959/product_24359552"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/sp42184175_sc7?wid=512&hei=512",
+            "description":"Staples 8.5 x 11 multiuse copy paper \nPaper weight: 20 lbs \nBrightness rating of 94 for sharp, clear print results",
+            "rating":4.5,
+            "quantity":8,
+            "price":38.99,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Staples-Multiuse-Copy-Paper-8-1-2-x-11-8-Ream-Case/product_1149611"
+        }
+    ],
+    "Erasers":[
+        {
+            "image":"https://m.media-amazon.com/images/I/815kVAi4jxL._AC_SX679_.jpg",
+            "description":"100% latex-free and smudge-resistant eraser \nSharp corners and flat face help you erase both details and large areas",
+            "rating":4.8,
+            "quantity":3,
+            "price":1.69,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Paper-Mate-Pearl-Erasers-70501/dp/B00006IFAQ/ref=sr_1_4_mod_primary_new?crid=1SDVXPFF6TCQO&keywords=erasers&qid=1650823352&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=eraser%2Coffice-products%2C956&sr=1-4"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/813Ycw73Y2L._AC_SX679_.jpg",
+            "description":"100% latex-free and smudge-resistant eraser \nSharp corners and flat face help you erase both details and large areas",
+            "rating":4.8,
+            "quantity":3,
+            "price":2.19,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Paper-White-Pearl-Erasers-70624/dp/B001B0GYRG/ref=sr_1_6?crid=1SDVXPFF6TCQO&keywords=erasers&qid=1650823352&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=eraser%2Coffice-products%2C956&sr=1-6"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71y72QD6gZL._AC_SX679_.jpg",
+            "description":"Exceptional quality for smudge-free corrections \nLatex free \nPMA certified non-toxic",
+            "rating":4.8,
+            "quantity":3,
+            "price":4.04,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Dixon-Ticonderoga-Pencil-Shaped-Latex-Free-38953/dp/B00HHVIZT8/ref=sr_1_19?crid=1SDVXPFF6TCQO&keywords=erasers&qid=1650823352&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=eraser%2Coffice-products%2C956&sr=1-19&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/41B1DLW3TiL._AC_.jpg",
+            "description":"Hi-polymer material \nSmall, block size \nNon-abrasive",
+            "rating":4.8,
+            "quantity":3,
+            "price":3.92,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Pentel-Hi-Polymer-Block-Eraser-ZEH10PC10/dp/B001Q4HQVU/ref=sr_1_2_sspa?crid=1SDVXPFF6TCQO&keywords=erasers&qid=1650823457&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=eraser%2Coffice-products%2C956&sr=1-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFVNVlPQVRQRTRYMk4mZW5jcnlwdGVkSWQ9QTAxNTk3MjUxODgwSlpZOEgwMDc1JmVuY3J5cHRlZEFkSWQ9QTA3NjU4NzgxWlc5NElFOURVMkxUJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/580e4729-65cc-4838-aa54-d945169be9ac.d6ca04afce5b224c42b71274db885a79.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"Smudge-free pencil erasing and erasable ink on paper \nSoft, pliable rubber erasers are latex free",
+            "rating":4.6,
+            "quantity":2,
+            "price":0.62,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/Pen-Gear-Pink-Eraser-2-Count-Packed-in-Blister-Pack-Beveled-Edges/168589072"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/573a9b56-e618-4c99-9658-fc81149a04cb_1.118250384565b1bc2fefd60961f333b8.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"25 pack of pencil cap erasers \nSmudge proof \nProvides a perfect fit for No. 2 wood case pencils",
+            "rating":4.6,
+            "quantity":25,
+            "price":0.47,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/Pen-Gear-Pencil-Topper-Erasers-Neon-25-Count/358275107"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_9917e77e-3d21-4b61-ab4e-125d6bfae828?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"Smudge free erasers \nBeveled ends resist tearing paper",
+            "rating":4.6,
+            "quantity":2,
+            "price":0.65,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/smudge-free-erasers-up-up/-/A-52673887?preselect=15024214#lnk=sametab"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_0a06ca1c-b4a0-4646-a2dd-b9fb7ee2cbf6?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"Pack of 25 eraser caps \nMade of synthetic rubber in an assortment of colors \nFit any standard pencil",
+            "rating":4.4,
+            "quantity":25,
+            "price":0.49,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/cap-erasers-25ct-up-38-up-8482/-/A-10805583#lnk=sametab"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/s1215435_sc7?wid=512&hei=512",
+            "description":"Compact-size wedge erasers are ideal for planners, purses, and backpacks \nEraser removes markings quickly and cleanly",
+            "rating":4.5,
+            "quantity":3,
+            "price":2.49,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Staples-Pink-Wedge-Erasers-3-Pack/product_271031"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/s1215532_sc7?wid=512&hei=512",
+            "description":"Cap erasers fit most wood-cased pencils \nEraser removes markings quickly and cleanly \nComes in assorted colors",
+            "rating":4.5,
+            "quantity":12,
+            "price":1.49,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Staples-Cap-Erasers-Assorted-Dozen/product_771352"
+        }
+    ],
+    "calculator":[
+        {
+            "image":"https://m.media-amazon.com/images/I/41KR0nP2G0L._AC_.jpg",
+            "description":"Scientific Calculator with four-line display \nFraction/decimal conversion \nFraction math",
+            "rating":4.8,
+            "quantity":1,
+            "price":18.79,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Texas-Instruments-MultiView-Scientific-Calculator/dp/B000PDFQ6K/ref=sr_1_16?crid=2D9ZL7OC9BZ8Y&keywords=calculators&qid=1650823928&rnid=2941120011&s=electronics&sprefix=ca%2Caps%2C1099&sr=1-16"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/714hioSlw1S._AC_SX679_.jpg",
+            "description":"CATIGA Scientific Calculator with Graphic Functions \nOVER 280 FUNCTIONS",
+            "rating":4.3,
+            "quantity":1,
+            "price":27.99,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Scientific-Graphic-Calculator-Engineering-Programmable/dp/B07J65SZ46/ref=sr_1_18?crid=2D9ZL7OC9BZ8Y&keywords=calculators&qid=1650823928&rnid=2941120011&s=electronics&sprefix=ca%2Caps%2C1099&sr=1-18&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/61uodOrgoJL._AC_SX679_.jpg",
+            "description":"Professional grade scientific calculator with 240 scientific functions \n12-digit widescreen HD display \n2-line display",
+            "rating":4.5,
+            "quantity":1,
+            "price":8.99,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Helect-2-Line-Engineering-Scientific-Calculator/dp/B01MCQMORK/ref=sr_1_30?crid=2D9ZL7OC9BZ8Y&keywords=calculators&qid=1650823928&rnid=2941120011&s=electronics&sprefix=ca%2Caps%2C1099&sr=1-30&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/81m8POPosdL._AC_SX679_.jpg",
+            "description":"Sharp Scientific Calculator \nLarge 16-Character, Four-Line Display \n422 Functions",
+            "rating":4.5,
+            "quantity":1,
+            "price":18.72,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Sharp-EL-W535TGBBL-Scientific-Calculator-WriteViewTM/dp/B06XKLKNX9/ref=sr_1_29?crid=2D9ZL7OC9BZ8Y&keywords=calculators&qid=1650823928&rnid=2941120011&s=electronics&sprefix=ca%2Caps%2C1099&sr=1-29"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/11b568f3-4e79-4519-b944-af9202b898f8_1.77035d1bd3bff260d9566995c301ca27.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"Texas Instruments Scientific Calculator \n4 Line(s) - 16 Digits - LCD - Battery/Solar Powered",
+            "rating":4.7,
+            "quantity":1,
+            "price":20.44,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/Texas-Instruments-TI-36X-Pro-Scientific-Calculator/20564365?athbdg=L1600"
+        },
+        {
+            "image":"https://i5.walmartimages.com/asr/d79dafc9-0970-4602-b63e-d41d75cda818.88b4abe440e5bab5204a50c420efb507.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+            "description":"Casio Black Scientific Calculator \n252 Built in Math Functions \n2 line LCD display for easy reading \nSolar powered with battery backup",
+            "rating":4.8,
+            "quantity":1,
+            "price":12.69,
+            "retailer":"Walmart",
+            "link":"https://www.walmart.com/ip/Casio-FX-300ESPLUS2-Scientific-Calculator-Natural-Textbook-Display-Black/390150164?athbdg=L1300"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_5c5bc3dd-cc11-406e-aa9f-2b467b733a5a?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"Advanced graphing calculator \nOffers a multi-line display with diverse graph styles \nFeatures: 200+ functions, multi-line display",
+            "rating":4.7,
+            "quantity":1,
+            "price":103.99,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/texas-instruments-graphing-calculator-black-ti-84/-/A-13646060#lnk=sametab"
+        },
+        {
+            "image":"https://target.scene7.com/is/image/Target/GUEST_0540fb24-b52a-4056-b67a-7253319bc672?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            "description":"Basic battery-operated scientific calculator with one-line display \nFraction features",
+            "rating":4.8,
+            "quantity":1,
+            "price":9.69,
+            "retailer":"Target",
+            "link":"https://www.target.com/p/texas-instruments-ti-30xa-scientific-calculator/-/A-14769313#lnk=sametab"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/sp36292377_sc7?wid=512&hei=512",
+            "description":"Scientific calculator two-line LCD display: 10-digit answer & two-digit exponent line \nHas built-in memory for five variables",
+            "rating":4.5,
+            "quantity":1,
+            "price":16.79,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Texas-Instruments-TI-30XIIS-Scientific-Calculator-Blue/product_382647"
+        },
+        {
+            "image":"https://www.staples-3p.com/s7/is/image/Staples/sp36292364_sc7?wid=512&hei=512",
+            "description":"Scientific calculator with 10-digit one-line LCD display \nPerfect choice for general math, algebra 1 and 2, pre-algebra, general science",
+            "rating":4.5,
+            "quantity":1,
+            "price":12.29,
+            "retailer":"Staples",
+            "link":"https://www.staples.com/Texas-Instruments-TI-30Xa-Scientific-Calculator/product_275842"
+        }
+    ]
 }
