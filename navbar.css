@@ -12,14 +12,12 @@
     border: none;
     cursor: pointer;
     text-decoration: none;
+    color: black;
 }
 img.navbar-item {
     padding: 0px !important;
     height: 50px;
 }
-a.navbar-item {
-    color: black;
-}
-.navbar-item:hover{
+.navbar-item.active{
     background-color: gray;
 }
