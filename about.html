@@ -2,6 +2,9 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./navbar.js"></script>
+    <link rel="stylesheet" href="./navbar.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 <style>
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -38,8 +41,8 @@ html {
 </style>
 </head>
 <body>
-    <div class="empty-box">
-    </div>
+    
+  <div id="navbar-container"></div>
    
     <div class="card">
         <div class="container">
@@ -63,4 +66,7 @@ html {
     </div>
 
 </body>
+<footer>
+    <script>navbar("About", "navbar-container")</script>
+</footer>
 </html>
