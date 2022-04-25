@@ -1,5 +1,14 @@
 {
-    "pen":[
+    "PENS":[        
+        {
+            "image":"https://m.media-amazon.com/images/I/91Syo5TbJ7L._AC_SX466_.jpg",
+            "description":"Gel pen with no smear, no bleed technology; intensely bold gel ink colors offer always vivid writing; Bold Point (1. 0mm);.",
+            "rating":4.8,
+            "quantity":12,
+            "price":9.09,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Sharpie-S-Gel-Point-1-0mm-Black/dp/B082PMXT2M/ref=sr_1_22?crid=2GLU92YN1B0NM&keywords=Gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%3B&qid=1650499937&sprefix=gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%2B%2Caps%2C160&sr=8-22&th=1" 
+        },
         {
             "image":"https://m.media-amazon.com/images/I/9144Be0-HNL._AC_SX466_.jpg",
             "description":"Zebra Pen Z-Grip Retractable Ballpoint Pen, Medium Point, 1.0mm, Black Ink. ",
@@ -7,16 +16,7 @@
             "quantity":24,
             "price":7.54,
             "retailer":"Amazon",
-            "link":"https://www.amazon.com/Zebra-Pen-Retractable-Ballpoint-18-Count/dp/B00M382RJO/ref=sr_1_1?crid=28IFNRSTH0WRH&keywords=Zebra%2BPen%2BZ-Grip%2BRetractable&qid=1650499769&sprefix=zebra%2Bpen%2Bz-grip%2Bretractable%2Caps%2C130&sr=8-1&th=1"
-        },
-        {
-            "image":"https://m.media-amazon.com/images/I/91Syo5TbJ7L._AC_SX466_.jpg",
-            "description":"Gel pen with no smear, no bleed technology; intensely bold gel ink colors offer always vivid writing; Bold Point (1. 0mm);.",
-            "rating":4.8,
-            "quantity":12,
-            "price":12.89,
-            "retailer":"Amazon",
-            "link":"https://www.amazon.com/Sharpie-S-Gel-Point-1-0mm-Black/dp/B082PMXT2M/ref=sr_1_22?crid=2GLU92YN1B0NM&keywords=Gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%3B&qid=1650499937&sprefix=gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%2B%2Caps%2C160&sr=8-22&th=1" 
+            "link":"https://www.amazon.com/Zebra-Pen-Retractable-Ballpoint-18-Count/dp/B00M382RJO/ref=sr_1_1?crid=28IFNRSTH0WRH&keywords=Zebra%2BPen%2BZ-Grip%2BRetractable&qid=1650499769&sprefix=zebra%2Bpen%2Bz-grip%2Bretractable%2Caps%2C130&sr=8-1&th=1"        
         },
         {
             "image":"https://m.media-amazon.com/images/I/81dtjODfSYL._AC_SX466_.jpg",
@@ -91,7 +91,7 @@
             "link":"https://www.staples.com/Paper-Mate-InkJoy-300RT-Retractable-Ballpoint-Pens-Medium-Point-Black-Box-of-36-1951378/product_1231065"
         }
     ],
-    "pencil":[
+    "PENCILS":[
         {
             "image":"https://m.media-amazon.com/images/I/71ktFdNm+xL._AC_SX679_.jpg",
             "description":"30 wood case #2 HB pencils made from high-quality wood come presharpened \nStrong medium-soft lead produces long-lasting, smooth, readable strokes",
@@ -184,16 +184,7 @@
         }       
 
     ],    
-    "notebook":[
-        {
-            "image":"https://m.media-amazon.com/images/I/71cPF2jH8wS._AC_SX679_.jpg",
-            "description":"5 subject notebook has 200 double-sided \nCollege ruled sheets \nFour 2-pocket dividers hold 11 x 8-1/2 sheets \nFights ink bleed",
-            "rating":4.8,
-            "quantity":1,
-            "price":5.68,
-            "retailer":"Amazon",
-            "link":"https://www.amazon.com/Five-Star-Notebook-Subject-73635/dp/B07DPLLXS9/ref=sr_1_4?crid=37CJL38GTF4PS&keywords=notebook&qid=1650821615&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=n%2Caps%2C698&sr=1-4&th=1"
-        },
+    "NOTEBOOKS":[        
         {
             "image":"https://m.media-amazon.com/images/I/81yIR74FWeL._AC_SX679_.jpg",
             "description":"Wirebound notebook \nCollege ruled \nPaper measures 8 by 10.5 inches \n92% brightness",
@@ -202,6 +193,15 @@
             "price":8.52,
             "retailer":"Amazon",
             "link":"https://www.amazon.com/AmazonBasics-Wirebound-Notebook-100-Sheet-Assorted/dp/B07D2Q3JRZ/ref=sr_1_7?crid=37CJL38GTF4PS&keywords=notebook&qid=1650821615&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=n%2Caps%2C698&sr=1-7&th=1"
+        },
+        {
+            "image":"https://m.media-amazon.com/images/I/71cPF2jH8wS._AC_SX679_.jpg",
+            "description":"5 subject notebook has 200 double-sided \nCollege ruled sheets \nFour 2-pocket dividers hold 11 x 8-1/2 sheets \nFights ink bleed",
+            "rating":4.8,
+            "quantity":1,
+            "price":5.68,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/Five-Star-Notebook-Subject-73635/dp/B07DPLLXS9/ref=sr_1_4?crid=37CJL38GTF4PS&keywords=notebook&qid=1650821615&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=n%2Caps%2C698&sr=1-4&th=1"
         },
         {
             "image":"https://m.media-amazon.com/images/I/81q1mVdjRaL._AC_SX679_.jpg",
@@ -276,7 +276,16 @@
             "link":"https://www.staples.com/Staples-1-Subject-Notebook-8-x-10-1-2-6-Pack/product_201350"
         }
     ],
-    "printing paper":[
+    "PRINTER PAPER":[        
+        {
+            "image":"https://m.media-amazon.com/images/I/71Ui3dxCZ9L._AC_SX679_.jpg",
+            "description":"8.5 x 11 Paper \nWeight: 20 lb \n3 Ream Case - 1500 Sheets \n92 Bright",
+            "rating":4.8,
+            "quantity":3,
+            "price":16.00,
+            "retailer":"Amazon",
+            "link":"https://www.amazon.com/HP-Printer-Paper-Office20-112090C/dp/B01FIK0PXI/ref=sr_1_5?crid=WGNAX52BMC3R&keywords=printing%2Bpaper&qid=1650822635&s=office-products&sprefix=printing%2Bpape%2Coffice-products%2C955&sr=1-5&th=1"
+        },
         {
             "image":"https://m.media-amazon.com/images/I/71gl0ZOkBqS._AC_SX679_.jpg",
             "description":"3 reams of 8.5 x 11 inch multipurpose copy paper (1,500 sheets total) \n92 brightness",
@@ -285,15 +294,6 @@
             "price":18.03,
             "retailer":"Amazon",
             "link":"https://www.amazon.com/AmazonBasics-Bright-Multipurpose-Copy-Paper/dp/B01FV0F75G/ref=sr_1_1_sspa?crid=WGNAX52BMC3R&keywords=printing%2Bpaper&qid=1650822635&s=office-products&sprefix=printing%2Bpape%2Coffice-products%2C955&sr=1-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFZSzhWTVVINThWODAmZW5jcnlwdGVkSWQ9QTA2NTQyOTExQVZXNUxMSEJKR0xRJmVuY3J5cHRlZEFkSWQ9QTAxMTQ5MjEzVkdKVVMySUpMQk0md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1"
-        },
-        {
-            "image":"https://m.media-amazon.com/images/I/71Ui3dxCZ9L._AC_SX679_.jpg",
-            "description":"8.5 x 11 Paper \nWeight: 20 lb \n3 Ream Case - 1500 Sheets \n92 Bright",
-            "rating":4.8,
-            "quantity":3,
-            "price":18.88,
-            "retailer":"Amazon",
-            "link":"https://www.amazon.com/HP-Printer-Paper-Office20-112090C/dp/B01FIK0PXI/ref=sr_1_5?crid=WGNAX52BMC3R&keywords=printing%2Bpaper&qid=1650822635&s=office-products&sprefix=printing%2Bpape%2Coffice-products%2C955&sr=1-5&th=1"
         },
         {
             "image":"https://m.media-amazon.com/images/I/71vQvmuLVUL._AC_SX679_.jpg",
@@ -368,7 +368,7 @@
             "link":"https://www.staples.com/Staples-Multiuse-Copy-Paper-8-1-2-x-11-8-Ream-Case/product_1149611"
         }
     ],
-    "Erasers":[
+    "ERASERS":[
         {
             "image":"https://m.media-amazon.com/images/I/815kVAi4jxL._AC_SX679_.jpg",
             "description":"100% latex-free and smudge-resistant eraser \nSharp corners and flat face help you erase both details and large areas",
@@ -460,7 +460,7 @@
             "link":"https://www.staples.com/Staples-Cap-Erasers-Assorted-Dozen/product_771352"
         }
     ],
-    "calculator":[
+    "CALCULATORS":[
         {
             "image":"https://m.media-amazon.com/images/I/41KR0nP2G0L._AC_.jpg",
             "description":"Scientific Calculator with four-line display \nFraction/decimal conversion \nFraction math",
