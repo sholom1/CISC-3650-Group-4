@@ -1,0 +1,26 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+.card {
+    flex-basis: 33%;
+    display: flex;
+}
+.card .content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.card .content .text{
+    display: flex;
+    flex-direction: row;
+}
+.card h3{
+    text-align: center;
+    width: 100%;
+}
+.card .buttons button {
+    margin: 8px;
+}
