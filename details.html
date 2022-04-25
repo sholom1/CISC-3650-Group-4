@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Details Page</title>
+    
+
+    <style>
+        table{
+            border-collapse: collapse;
+            border-spacing: 0;
+            
+        }
+        
+        th, td{
+            padding: 10px 20px;
+            border: 1px solid #000;
+            font-weight: bold;
+            background-color: #f2d48f;
+            font-weight: medium;
+            border: 0.5px solid ;
+            opacity: 1;
+        }
+    </style>
+
+</head>
+
+<body>
+    
+    <body>
+        <section>
+            <h1>Shopping List</h1>
+            <table id='table'>         
+                <tr>
+                    <th>Image</th>
+                    <th>Description</th>
+                    <th>Rating</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Retailer</th>
+                    <th>Link</th>
+                </tr>
+
+                <tbody id="myTable">
+                </tbody>
+            </table>
+
+<script>
+    var myArray = "https://raw.githubusercontent.com/sholom1/CISC-3650-Group-4/main/data.json";
+
+    console.log(myArray);
+    buildTable(myArray);
+
+    function buildTable(data){
+        var table = document.getElementById("myTable");
+
+        for(var i=0; i<data.length; i++){
+            var row = `<tr>
+                    <td>${data[i].image}</td>
+                    <td>${data[i].description}</td>
+                    <td>${data[i].rating}</td>
+                    <td>${data[i].quantity}</td>
+                    <td>${data[i].price}</td>
+                    <td>${data[i].retailer}</td>
+                    <td>${data[i].link}</td>
+                  </tr>`
+
+        table.innerHTML += row
+    }
+}
+
+</script>
+
+    
+</body>
+</html>
