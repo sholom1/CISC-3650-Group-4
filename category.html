@@ -37,7 +37,7 @@
                     <th>Rating</th>
                     <th>Quantity</th>
                     <th>Price</th>
-                    <th>Retailer</th>
+                    <th>Price per piece</th>
                     <th>Link</th>
                 </tr>
 
@@ -47,29 +47,6 @@
 
 <script>
     renderCategories("myTable");
-    var myArray = "https://raw.githubusercontent.com/sholom1/CISC-3650-Group-4/main/data.json";
-
-    console.log(myArray);
-    buildTable(myArray);
-
-    function buildTable(data){
-        var table = document.getElementById("myTable");
-
-        for(var i=0; i<data.length; i++){
-            var row = `<tr>
-                    <td>${data[i].image}</td>
-                    <td>${data[i].description}</td>
-                    <td>${data[i].rating}</td>
-                    <td>${data[i].quantity}</td>
-                    <td>${data[i].price}</td>
-                    <td>${data[i].retailer}</td>
-                    <td>${data[i].link}</td>
-                  </tr>`
-
-        table.innerHTML += row
-    }
-}
-
 </script>
 
     

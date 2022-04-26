@@ -15,14 +15,14 @@ async function renderCategories(target){
     if (entries && entries.length > 0){
         let generatedTable = `${entries.map(entry => 
             `<tr>
-                <td><img src="${entry.image}"/><td/>
+                <td><img src="${entry.image}"/></td>
                 <td><span>${entry.description}</span></td>
                 <td><span>${entry.rating}</span></td>
                 <td><span>${entry.quantity}</span></td>
-                <td><span>\$${entry.price}</span>
+                <td><span>\$${entry.price}</span></td>
                 <td><span>\$${entry.price / entry.quantity}</span></td>
                 <td><span>${entry.link}</span></td>
-            </tr>`)}`
+            </tr>`).join("")}`
         targetElement.innerHTML += generatedTable;
     }
     else {
