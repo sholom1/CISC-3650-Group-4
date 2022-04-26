@@ -63,10 +63,11 @@
         }
     </style>
     <script src="./category.js"></script>
+    <script src="./navbar.js"></script>
+    <link rel="stylesheet" href="./navbar.css">
 </head>
-
-
 <body>
+    <div id="navbar-container"></div>
     <ul class="breadcrumb">
         <img src="https://raw.githubusercontent.com/sholom1/CISC-3650-Group-4/main/Logo.png">
         <br>
@@ -90,11 +91,11 @@
         </tbody>
     </table>
 
-    <script>
-        renderCategories("myTable");
-    </script>
 
 
 </body>
-
+<footer>
+    <script>navbar("","navbar-container")</script>
+    <script>renderCategories("myTable")</script>
+</footer>
 </html>
