@@ -21,7 +21,7 @@ async function renderCategories(target){
                 <td><span>${entry.quantity}</span></td>
                 <td><span>\$${entry.price}</span></td>
                 <td><span>\$${entry.price / entry.quantity}</span></td>
-                <td><span>${entry.link}</span></td>
+                <td><a href="${entry.link}">${entry.retailer}</span></td>
             </tr>`).join("")}`
         targetElement.innerHTML += generatedTable;
     }
