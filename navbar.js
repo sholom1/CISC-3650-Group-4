@@ -19,5 +19,5 @@ async function categoryDropdown(currentPage){
         </select>`
 }
 function navigate(ev){
-    window.location = `./category?name=${ev.target.value}`;
+    window.location = `./category.html?name=${ev.target.value}`;
 }
