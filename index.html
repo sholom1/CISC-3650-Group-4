@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>School Supplies</title>
     <script src="./navbar.js"></script>
+    <script src="./index.js"></script>
     <link rel="stylesheet" href="./navbar.css">
     <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 </head>
@@ -39,7 +40,7 @@
             </h3>
         </div>
     </header>
-
+    <div id="cards-container"></div>
     <div className="card_pen">
         <img src="https://cdn.discordapp.com/attachments/717286566258671698/967943248519778395/unknown.png" style="width: 30% 
              display= table     
@@ -293,7 +294,10 @@
     </div>
 </body>
 <footer>
-    <script>navbar("Home", "navbar-container")</script>
+    <script>
+        navbar("Home", "navbar-container");
+        GenerateCards("cards-container")
+    </script>
 </footer>
 
 </html>
