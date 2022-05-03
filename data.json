@@ -2,16 +2,16 @@
     "PENS":[        
         {
             "image":"https://m.media-amazon.com/images/I/91Syo5TbJ7L._AC_SX466_.jpg",
-            "description":"Gel pen with no smear, no bleed technology; intensely bold gel ink colors offer always vivid writing; Bold Point (1. 0mm);.",
+            "description":"Gel pen with no smear, no bleed technology <br> intensely bold gel ink colors offer always vivid writing <br> Bold Point (1. 0mm)",
             "rating":4.8,
             "quantity":12,
-            "price":9.09,
+            "price":13.99,
             "retailer":"Amazon",
             "link":"https://www.amazon.com/Sharpie-S-Gel-Point-1-0mm-Black/dp/B082PMXT2M/ref=sr_1_22?crid=2GLU92YN1B0NM&keywords=Gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%3B&qid=1650499937&sprefix=gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%2B%2Caps%2C160&sr=8-22&th=1" 
         },
         {
             "image":"https://m.media-amazon.com/images/I/9144Be0-HNL._AC_SX466_.jpg",
-            "description":"Zebra Pen Z-Grip Retractable Ballpoint Pen, Medium Point, 1.0mm, Black Ink. ",
+            "description":"Zebra Pen Z-Grip Retractable Ballpoint Pen <br> Size: Medium Point, 1.0mm <br> Color: Black",
             "rating":4.6,
             "quantity":24,
             "price":7.54,
@@ -29,7 +29,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/71Epm-3bJoL._AC_SX466_.jpg",
-            "description":"Super-smooth writing; Comfortable rubber grip \nRetractable & refillable; Long lasting",
+            "description":"Super-smooth writing <br> Comfortable rubber grip <br> Retractable & refillable <br> Long lasting",
             "rating":4.8,
             "quantity":12,
             "price":16.99,
@@ -38,7 +38,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/eb38a8d4-73f0-434b-bad1-4ce52799a11a.70bf7ee6db7e064794bae533f0163591.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"Water-resistant smear proof ink;\npen type: gel; ink color: black; \npoint type: fine; point size: 0.7 mm",
+            "description":"Water-resistant smear proof ink <br> Pen type: gel <br> Ink color: black <br> Point type: fine <br> Point size: 0.7 mm",
             "rating":4.7,
             "quantity":5,
             "price":6.63,
@@ -47,7 +47,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/42fb7dfa-b081-43cc-ac80-74731cf82578_1.6fe3ffeb7894b340bacf0fcac0355a6b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"BIC Gel-ocity Quick Dry Retractable Gel Pens deliver a super-smooth writing experience that keeps your thoughts flowing. \n0.7 mm medium point creates vivid lines",
+            "description":"BIC Gel-ocity Quick Dry Retractable Gel Pens deliver a super-smooth writing experience that keeps your thoughts flowing <br> 0.7 mm medium point creates vivid lines",
             "rating":4.9,
             "quantity":2,
             "price":2.47,
@@ -56,7 +56,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_84148b12-7ccd-451e-8bdd-247e4f803a30?wid=800&hei=800&qlt=80&fmt=pjpeg",
-            "description":"Medium point (1.0mm) with tungsten carbide ball for effortlessly smooth writing. \nIncludes 10 BIC Ballpoint Stic Pens in Black ink.",
+            "description":"Medium point (1.0mm) with tungsten carbide ball for effortlessly smooth writing <br> Includes 10 BIC Ballpoint Stic Pens in Black ink.",
             "rating":4.7,
             "quantity":10,
             "price":1.59,
@@ -65,7 +65,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_de8ba4cc-3a3f-441c-9296-65795792bc37?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"Smooth gel ink for a fluid writing experience \nFeatures: Retractable, Quick Drying, Pocket Clip \nInk Color: Black; Point size: 0.7mm",
+            "description":"Smooth gel ink for a fluid writing experience <br> Features: Retractable, Quick Drying, Pocket Clip <br> Ink Color: Black <br> Point size: 0.7mm",
             "rating":4.8,
             "quantity":6,
             "price":9.99,
@@ -74,7 +74,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/sp44342934_sc7?wid=700&hei=700",
-            "description":"Retractable gel pens for everyday writing tasks \nBlack ink has a rich color for excellent readability \n0.7mm medium tip",
+            "description":"Retractable gel pens for everyday writing tasks <br> Black ink has a rich color for excellent readability <br> 0.7mm medium tip",
             "rating":5.0,
             "quantity":6,
             "price":12.79,
@@ -83,7 +83,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/sp163415529_sc7?wid=700&hei=700",
-            "description":"Featuring black ink, these pens offer a strong contrast against white or yellow paper so your writing is easy to see. \n1.0mm medium point for accuracy",
+            "description":"Featuring black ink, these pens offer a strong contrast against white or yellow paper so your writing is easy to see <br> 1.0mm medium point for accuracy",
             "rating":5.0,
             "quantity":36,
             "price":22.39,
@@ -94,7 +94,7 @@
     "PENCILS":[
         {
             "image":"https://m.media-amazon.com/images/I/71ktFdNm+xL._AC_SX679_.jpg",
-            "description":"30 wood case #2 HB pencils made from high-quality wood come presharpened \nStrong medium-soft lead produces long-lasting, smooth, readable strokes",
+            "description":"30 wood case #2 HB pencils made from high-quality wood come presharpened <br> Strong medium-soft lead produces long-lasting, smooth, readable strokes",
             "rating":4.8,
             "quantity":30,
             "price":4.62,
@@ -103,7 +103,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/41LlkVU0XaL._AC_.jpg",
-            "description":"Exclusive #2 graphite formula provides extra smooth performance \nPre-sharpened to save you time \nTop quality, latex-free eraser provides easy, clean corrections",
+            "description":"Exclusive #2 graphite formula provides extra smooth performance <br> Pre-sharpened to save you time <br> Top quality, latex-free eraser provides easy, clean corrections",
             "rating":4.8,
             "quantity":30,
             "price":6.52,
@@ -112,7 +112,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/81NcHcP-bFL._AC_SX679_.jpg",
-            "description":"One 24-count pack of BIC Xtra-Sparkle Number 2 Mechanical Pencils With Erasers \nVersatile 0.7mm medium point is ideal for a variety of everyday writing activities",
+            "description":"One 24-count pack of BIC Xtra-Sparkle Number 2 Mechanical Pencils With Erasers <br> Versatile 0.7mm medium point is ideal for a variety of everyday writing activities",
             "rating":4.8,
             "quantity":24,
             "price":6.68,
@@ -121,7 +121,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/91gslxvMZ-L._AC_SY450_.jpg",
-            "description":"Thick 1.3mm lead for less breakage \nTriangular shape that guides finger placement \nIncludes: 5 triangle pencils for kids in fun barrel colors, 12 lead refills and 2 eraser refills",
+            "description":"Thick 1.3mm lead for less breakage <br> Triangular shape that guides finger placement <br> Includes: 5 triangle pencils for kids in fun barrel colors, 12 lead refills and 2 eraser refills",
             "rating":4.8,
             "quantity":5,
             "price":3.48,
@@ -130,7 +130,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/f7e6f507-5c2d-4e8d-b532-9013c3c9c4f1_1.554bea1ffb1eb77a269b145c11c3394e.png?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"Three #2 leads per pencil \n0.9 mm Thick point \nSoft rubber grip for writing comfort and control",
+            "description":"Three #2 leads per pencil <br> 0.9 mm Thick point <br> Soft rubber grip for writing comfort and control",
             "rating":4.8,
             "quantity":5,
             "price":4.46,
@@ -139,7 +139,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/0b1e61be-79cc-4551-86a1-670f006f5fa5_1.eb5ef8790c0e107c17158afbc7e5f6c5.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"Versatile 0.7mm pencil features polished metal accents for a sleek design \nPack includes 2 BIC Velocity Pro Mechanical Pencils and refill tube with 12 additional leads and 5 erasers",
+            "description":"Versatile 0.7mm pencil features polished metal accents for a sleek design <br> Pack includes 2 BIC Velocity Pro Mechanical Pencils and refill tube with 12 additional leads and 5 erasers",
             "rating":4.8,
             "quantity":2,
             "price":2.94,
@@ -148,7 +148,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_c05d619a-922b-4bfd-b8f0-8b054ed16c97?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"Made from real wood, these pencils feature a #2 lead for smooth and easy writing, making them just the right pick for everyday writing needs at school, office or home. Easy to sharpen, these wooden pencils feature 100% latex erasers for your convenience. ",
+            "description":"Made from real wood, these pencils feature a #2 lead for smooth and easy writing, making them just the right pick for everyday writing needs at school, office or home <br> Easy to sharpen, these wooden pencils feature 100% latex erasers for your convenience. ",
             "rating":4.7,
             "quantity":24,
             "price":0.99,
@@ -157,7 +157,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_03c5a0df-4ed0-4551-b773-d4079154aff2?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"Exclusive #2 graphite formula provides extra smooth performance \nMade with premium wood from responsibly sourced forests \nPMA certified non-toxic",
+            "description":"Exclusive #2 graphite formula provides extra smooth performance <br> Made with premium wood from responsibly sourced forests <br> PMA certified non-toxic",
             "rating":4.7,
             "quantity":12,
             "price":2.99,
@@ -166,7 +166,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/sp42172245_sc7?wid=512&hei=512",
-            "description":"High-quality wooden pencils \nFeatures 2.2mm lead for smooth, polished writing \nPre-sharpened pencils ready for immediate use",
+            "description":"High-quality wooden pencils <br> Features 2.2mm lead for smooth, polished writing <br> Pre-sharpened pencils ready for immediate use",
             "rating":5.0,
             "quantity":18,
             "price":6.59,
@@ -175,7 +175,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/sp47572655_sc7?wid=512&hei=512",
-            "description":"Mechanical pencils are ready to use right out of the box \n0.5mm, No. 2 medium lead provides smooth, clear writing",
+            "description":"Mechanical pencils are ready to use right out of the box <br> 0.5mm, No. 2 medium lead provides smooth, clear writing",
             "rating":4.5,
             "quantity":2,
             "price":9.79,
@@ -187,7 +187,7 @@
     "NOTEBOOKS":[        
         {
             "image":"https://m.media-amazon.com/images/I/81yIR74FWeL._AC_SX679_.jpg",
-            "description":"Wirebound notebook \nCollege ruled \nPaper measures 8 by 10.5 inches \n92% brightness",
+            "description":"Wirebound notebook <br> College ruled <br> Paper measures 8 by 10.5 inches <br> 92% brightness",
             "rating":4.8,
             "quantity":5,
             "price":8.52,
@@ -196,7 +196,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/71cPF2jH8wS._AC_SX679_.jpg",
-            "description":"5 subject notebook has 200 double-sided \nCollege ruled sheets \nFour 2-pocket dividers hold 11 x 8-1/2 sheets \nFights ink bleed",
+            "description":"5 subject notebook has 200 double-sided <br> College ruled sheets <br> Four 2-pocket dividers hold 11 x 8-1/2 sheets <br> Fights ink bleed",
             "rating":4.8,
             "quantity":1,
             "price":5.68,
@@ -205,7 +205,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/81q1mVdjRaL._AC_SX679_.jpg",
-            "description":"Composition Wide Ruled notebook with 100 sheets of paper \nWide-ruled format \n92% brightness",
+            "description":"Composition Wide Ruled notebook with 100 sheets of paper <br> Wide-ruled format <br> 92% brightness",
             "rating":4.8,
             "quantity":4,
             "price":6.41,
@@ -214,7 +214,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/71ml+2sJrhL._AC_SX679_.jpg",
-            "description":"Spiral Notebook 6 Pack, 1 Subject \nWide Ruled Paper \nSize: 8 x 10-1/2 Inch \n70 Sheets",
+            "description":"Spiral Notebook 6 Pack, 1 Subject <br> Wide Ruled Paper <br> Size: 8 x 10-1/2 Inch \n70 Sheets",
             "rating":4.8,
             "quantity":6,
             "price":10.75,
@@ -223,7 +223,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/3f8cfff3-9a2c-4c3a-8339-894bd073330b.f36270bc33feb9750ccf843edb56d557.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"Spiral-bound Wide ruled notebook \n70 pages \nDurable front and back covers \nSize:8 x 10.5",
+            "description":"Spiral-bound Wide ruled notebook <br> 70 pages <br> Durable front and back covers <br> Size:8 x 10.5",
             "rating":4.7,
             "quantity":1,
             "price":0.94,
@@ -232,7 +232,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/ab47cf1b-25b4-4aac-8d3c-c8fa20921d09.dfbf49a9d4e35a295b22154a182bec2c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"Durable cover to protect from spills and wear \n100 pages \nWide rule Size: 7.5 x 9.75",
+            "description":"Durable cover to protect from spills and wear <br> 100 pages <br> Wide rule Size: 7.5 x 9.75",
             "rating":4.7,
             "quantity":1,
             "price":0.97,
@@ -241,7 +241,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_ad5d0716-e008-4a0c-aafe-91895133921c?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"3 subject notebook contains 150 college ruled sheets, which are ink bleed resistant \n2 pocket page reinforced divider is included to store loose sheets",
+            "description":"3 subject notebook contains 150 college ruled sheets, which are ink bleed resistant <br> 2 pocket page reinforced divider is included to store loose sheets",
             "rating":4.7,
             "quantity":3,
             "price":4.79,
@@ -250,7 +250,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_8bc7f668-b620-4eff-b76c-76ff3c3b706f?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"1 subject. 100 college ruled sheets fight ink bleed \nReinforced 2-pocket divider. Water resistant covers",
+            "description":"1 subject. 100 college ruled sheets fight ink bleed <br> Reinforced 2-pocket divider. Water resistant covers",
             "rating":4.7,
             "quantity":1,
             "price":3.39,
@@ -259,7 +259,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/sp38165102_sc7?wid=512&hei=512",
-            "description":"This 8 inch x 10.5 inch notebook has 70 sheets \nCollege-ruled for efficient use of space \nAvailable in assorted colors",
+            "description":"This 8 inch x 10.5 inch notebook has 70 sheets <br> College-ruled for efficient use of space <br> Available in assorted colors",
             "rating":5.0,
             "quantity":1,
             "price":2.29,
@@ -268,7 +268,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/s1186181_sc7?wid=512&hei=512",
-            "description":"70 sheets of wide-ruled paper for efficient use of space \nAssorted-color duplex cardstock cover \nSix per pack",
+            "description":"70 sheets of wide-ruled paper for efficient use of space <br> Assorted-color duplex cardstock cover <br> Six per pack",
             "rating":4.5,
             "quantity":6,
             "price":9.99,
@@ -279,7 +279,7 @@
     "PRINTER_PAPER":[        
         {
             "image":"https://m.media-amazon.com/images/I/71Ui3dxCZ9L._AC_SX679_.jpg",
-            "description":"8.5 x 11 Paper \nWeight: 20 lb \n3 Ream Case - 1500 Sheets \n92 Bright",
+            "description":"8.5 x 11 Paper <br> Weight: 20 lb <br> 3 Ream Case - 1500 Sheets <br> 92 Bright",
             "rating":4.8,
             "quantity":3,
             "price":16.00,
@@ -288,7 +288,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/71gl0ZOkBqS._AC_SX679_.jpg",
-            "description":"3 reams of 8.5 x 11 inch multipurpose copy paper (1,500 sheets total) \n92 brightness",
+            "description":"3 reams of 8.5 x 11 inch multipurpose copy paper (1,500 sheets total) <br> 92 brightness",
             "rating":4.8,
             "quantity":3,
             "price":18.03,
@@ -297,7 +297,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/71vQvmuLVUL._AC_SX679_.jpg",
-            "description":"20 Lb Copy Paper \nSize: 8.5 x 11 - 3 Ream (1,500 Sheets) \n92 Bright",
+            "description":"20 Lb Copy Paper <br> Size: 8.5 x 11 - 3 Ream (1,500 Sheets) <br> 92 Bright",
             "rating":4.7,
             "quantity":3,
             "price":22.79,
@@ -306,7 +306,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/71YriwrbQeL._AC_SX679_.jpg",
-            "description":"Premium Inkjet & Laser Paper 24 Lb \nSize: 8.5 x 11 - 1 Ream (500 Sheets) \n97 Bright",
+            "description":"Premium Inkjet & Laser Paper 24 Lb <br> Size: 8.5 x 11 - 1 Ream (500 Sheets) <br> 97 Bright",
             "rating":4.8,
             "quantity":1,
             "price":7.98,
@@ -315,7 +315,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/0566b453-3caa-45f9-8209-d6d6fb018558.ccf4e235bc5e7b96e2fbd7eade0e64f9.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"HP printer white paper \nSize: 8.5x11 \nWeight: 20lb \n96 Bright",
+            "description":"HP printer white paper <br> Size: 8.5x11 <br> Weight: 20lb <br> 96 Bright",
             "rating":4.7,
             "quantity":1,
             "price":8.97,
@@ -324,7 +324,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/a28e8c96-8b8a-4f9f-bf18-f9f06aa5341a.7c12edb734928207750f13144bca10cc.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"HP printer white paper \nWeight: 20lb \nSize: 8.5x11 \n3 Ream \n1500 Shts",
+            "description":"HP printer white paper <br> Weight: 20lb <br> Size: 8.5x11 <br> 3 Ream <br> 1500 Shts",
             "rating":4.7,
             "quantity":3,
             "price":24.92,
@@ -333,7 +333,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_f1ec0007-c95c-4793-86d4-5e778ada90b3?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"Paper Size: 8.5 x 11 Inches (Letter) \nPackage Quantity: 500 \nPaper weight: 20 Pounds \nPaper Brightness: 92",
+            "description":"Paper Size: 8.5 x 11 Inches (Letter) <br> Package Quantity: 500 <br> Paper weight: 20 Pounds <br> Paper Brightness: 92",
             "rating":4.8,
             "quantity":1,
             "price":5.59,
@@ -342,7 +342,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_3131d1d7-e918-4d0a-be80-82b2205e65fc?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"Paper Size: 8.5 x 11 Inches (Letter) \nPaper Brightness: 92 \n100% recycled printer paper for sustainability \nPackage Quantity: 500",
+            "description":"Paper Size: 8.5 x 11 Inches (Letter) <br> Paper Brightness: 92 <br> 100% recycled printer paper for sustainability <br> Package Quantity: 500",
             "rating":4.6,
             "quantity":1,
             "price":8.19,
@@ -351,7 +351,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/s1210627_sc7?wid=512&hei=512",
-            "description":"Paper dimensions: 8.5W x 11L (US letter) \nBrightness rating of 92 for sharp, clear print results \n500 sheets per ream, 3 reams per carton, 1500 sheets total",
+            "description":"Paper dimensions: 8.5W x 11L (US letter) <br> Brightness rating of 92 for sharp, clear print results <br> 500 sheets per ream, 3 reams per carton, 1500 sheets total",
             "rating":4.5,
             "quantity":3,
             "price":19.89,
@@ -360,7 +360,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/sp42184175_sc7?wid=512&hei=512",
-            "description":"Staples 8.5 x 11 multiuse copy paper \nPaper weight: 20 lbs \nBrightness rating of 94 for sharp, clear print results",
+            "description":"Staples 8.5 x 11 multiuse copy paper <br> Paper weight: 20 lbs <br> Brightness rating of 94 for sharp, clear print results",
             "rating":4.5,
             "quantity":8,
             "price":38.99,
@@ -371,7 +371,7 @@
     "ERASERS":[
         {
             "image":"https://m.media-amazon.com/images/I/815kVAi4jxL._AC_SX679_.jpg",
-            "description":"100% latex-free and smudge-resistant eraser \nSharp corners and flat face help you erase both details and large areas",
+            "description":"100% latex-free and smudge-resistant eraser <br> Sharp corners and flat face help you erase both details and large areas",
             "rating":4.8,
             "quantity":3,
             "price":1.69,
@@ -380,7 +380,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/813Ycw73Y2L._AC_SX679_.jpg",
-            "description":"100% latex-free and smudge-resistant eraser \nSharp corners and flat face help you erase both details and large areas",
+            "description":"100% latex-free and smudge-resistant eraser <br> Sharp corners and flat face help you erase both details and large areas",
             "rating":4.8,
             "quantity":3,
             "price":2.19,
@@ -389,7 +389,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/71y72QD6gZL._AC_SX679_.jpg",
-            "description":"Exceptional quality for smudge-free corrections \nLatex free \nPMA certified non-toxic",
+            "description":"Exceptional quality for smudge-free corrections <br> Latex free <br> PMA certified non-toxic",
             "rating":4.8,
             "quantity":3,
             "price":4.04,
@@ -398,7 +398,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/41B1DLW3TiL._AC_.jpg",
-            "description":"Hi-polymer material \nSmall, block size \nNon-abrasive",
+            "description":"Hi-polymer material <br> Small, block size <br> Non-abrasive",
             "rating":4.8,
             "quantity":3,
             "price":3.92,
@@ -407,7 +407,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/580e4729-65cc-4838-aa54-d945169be9ac.d6ca04afce5b224c42b71274db885a79.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"Smudge-free pencil erasing and erasable ink on paper \nSoft, pliable rubber erasers are latex free",
+            "description":"Smudge-free pencil erasing and erasable ink on paper <br> Soft, pliable rubber erasers are latex free",
             "rating":4.6,
             "quantity":2,
             "price":0.62,
@@ -416,7 +416,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/573a9b56-e618-4c99-9658-fc81149a04cb_1.118250384565b1bc2fefd60961f333b8.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"25 pack of pencil cap erasers \nSmudge proof \nProvides a perfect fit for No. 2 wood case pencils",
+            "description":"25 pack of pencil cap erasers <br> Smudge proof <br> Provides a perfect fit for No. 2 wood case pencils",
             "rating":4.6,
             "quantity":25,
             "price":0.47,
@@ -425,7 +425,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_9917e77e-3d21-4b61-ab4e-125d6bfae828?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"Smudge free erasers \nBeveled ends resist tearing paper",
+            "description":"Smudge free erasers <br> Beveled ends resist tearing paper",
             "rating":4.6,
             "quantity":2,
             "price":0.65,
@@ -434,7 +434,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_0a06ca1c-b4a0-4646-a2dd-b9fb7ee2cbf6?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"Pack of 25 eraser caps \nMade of synthetic rubber in an assortment of colors \nFit any standard pencil",
+            "description":"Pack of 25 eraser caps <br> Made of synthetic rubber in an assortment of colors <br> Fit any standard pencil",
             "rating":4.4,
             "quantity":25,
             "price":0.49,
@@ -443,7 +443,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/s1215435_sc7?wid=512&hei=512",
-            "description":"Compact-size wedge erasers are ideal for planners, purses, and backpacks \nEraser removes markings quickly and cleanly",
+            "description":"Compact-size wedge erasers are ideal for planners, purses, and backpacks <br> Eraser removes markings quickly and cleanly",
             "rating":4.5,
             "quantity":3,
             "price":2.49,
@@ -452,7 +452,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/s1215532_sc7?wid=512&hei=512",
-            "description":"Cap erasers fit most wood-cased pencils \nEraser removes markings quickly and cleanly \nComes in assorted colors",
+            "description":"Cap erasers fit most wood-cased pencils <br> Eraser removes markings quickly and cleanly <br> Comes in assorted colors",
             "rating":4.5,
             "quantity":12,
             "price":1.49,
@@ -463,7 +463,7 @@
     "CALCULATORS":[
         {
             "image":"https://m.media-amazon.com/images/I/41KR0nP2G0L._AC_.jpg",
-            "description":"Scientific Calculator with four-line display \nFraction/decimal conversion \nFraction math",
+            "description":"Scientific Calculator with four-line display <br> Fraction/decimal conversion <br> Fraction math",
             "rating":4.8,
             "quantity":1,
             "price":18.79,
@@ -472,7 +472,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/714hioSlw1S._AC_SX679_.jpg",
-            "description":"CATIGA Scientific Calculator with Graphic Functions \nOVER 280 FUNCTIONS",
+            "description":"CATIGA Scientific Calculator with Graphic Functions <br> Over 280 functions",
             "rating":4.3,
             "quantity":1,
             "price":27.99,
@@ -481,7 +481,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/61uodOrgoJL._AC_SX679_.jpg",
-            "description":"Professional grade scientific calculator with 240 scientific functions \n12-digit widescreen HD display \n2-line display",
+            "description":"Professional grade scientific calculator with 240 scientific functions <br> 12-digit widescreen HD display <br> 2-line display",
             "rating":4.5,
             "quantity":1,
             "price":8.99,
@@ -490,7 +490,7 @@
         },
         {
             "image":"https://m.media-amazon.com/images/I/81m8POPosdL._AC_SX679_.jpg",
-            "description":"Sharp Scientific Calculator \nLarge 16-Character, Four-Line Display \n422 Functions",
+            "description":"Sharp Scientific Calculator <br> Large 16-Character, Four-Line Display <br> 422 Functions",
             "rating":4.5,
             "quantity":1,
             "price":18.72,
@@ -499,7 +499,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/11b568f3-4e79-4519-b944-af9202b898f8_1.77035d1bd3bff260d9566995c301ca27.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"Texas Instruments Scientific Calculator \n4 Line(s) - 16 Digits - LCD - Battery/Solar Powered",
+            "description":"Texas Instruments Scientific Calculator <br> 4 Line(s) - 16 Digits - LCD - Battery/Solar Powered",
             "rating":4.7,
             "quantity":1,
             "price":20.44,
@@ -508,7 +508,7 @@
         },
         {
             "image":"https://i5.walmartimages.com/asr/d79dafc9-0970-4602-b63e-d41d75cda818.88b4abe440e5bab5204a50c420efb507.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-            "description":"Casio Black Scientific Calculator \n252 Built in Math Functions \n2 line LCD display for easy reading \nSolar powered with battery backup",
+            "description":"Casio Black Scientific Calculator <br> 252 Built in Math Functions <br> 2 line LCD display for easy reading <br> Solar powered with battery backup",
             "rating":4.8,
             "quantity":1,
             "price":12.69,
@@ -517,7 +517,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_5c5bc3dd-cc11-406e-aa9f-2b467b733a5a?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"Advanced graphing calculator \nOffers a multi-line display with diverse graph styles \nFeatures: 200+ functions, multi-line display",
+            "description":"Advanced graphing calculator <br> Offers a multi-line display with diverse graph styles <br> Features: 200+ functions, multi-line display",
             "rating":4.7,
             "quantity":1,
             "price":103.99,
@@ -526,7 +526,7 @@
         },
         {
             "image":"https://target.scene7.com/is/image/Target/GUEST_0540fb24-b52a-4056-b67a-7253319bc672?wid=325&hei=325&qlt=80&fmt=pjpeg",
-            "description":"Basic battery-operated scientific calculator with one-line display \nFraction features",
+            "description":"Basic battery-operated scientific calculator with one-line display <br> Fraction features",
             "rating":4.8,
             "quantity":1,
             "price":9.69,
@@ -535,7 +535,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/sp36292377_sc7?wid=512&hei=512",
-            "description":"Scientific calculator two-line LCD display: 10-digit answer & two-digit exponent line \nHas built-in memory for five variables",
+            "description":"Scientific calculator two-line LCD display: 10-digit answer & two-digit exponent line <br> Has built-in memory for five variables",
             "rating":4.5,
             "quantity":1,
             "price":16.79,
@@ -544,7 +544,7 @@
         },
         {
             "image":"https://www.staples-3p.com/s7/is/image/Staples/sp36292364_sc7?wid=512&hei=512",
-            "description":"Scientific calculator with 10-digit one-line LCD display \nPerfect choice for general math, algebra 1 and 2, pre-algebra, general science",
+            "description":"Scientific calculator with 10-digit one-line LCD display <br> Perfect choice for general math, algebra 1 and 2, pre-algebra, general science",
             "rating":4.5,
             "quantity":1,
             "price":12.29,
