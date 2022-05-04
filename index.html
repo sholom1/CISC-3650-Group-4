@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>School Supplies</title>
-    <script src="./navbar.js"></script> 
+    <script src="./navbar.js"></script>
     <script src="./index.js"></script>
     <link rel="stylesheet" href="./navbar.css">
     <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 
     <style>
         body {
-          font-family: Arial, Helvetica, sans-serif;
-          margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
         }
 
         ul.breadcrumb {
@@ -25,13 +25,13 @@
         ul.breadcrumb li {
             display: inline-block;
             font-size: 16px;
-            
+
         }
 
         ul.breadcrumb li+li:before {
             padding: 2px;
             content: ">\00a0";
-            
+
         }
 
         ul.breadcrumb li a {
@@ -41,56 +41,60 @@
             text-decoration: none;
             text-decoration: underline;
         }
-        
+
         html {
-          box-sizing: border-box;
-        }
-        
-        *, *:before, *:after {
-          box-sizing: inherit;
-        }
-        
-        .column {
-          float: left;
-          width: 33.3%;
-          margin-bottom: 16px;
-          padding: 0 8px;
+            box-sizing: border-box;
         }
 
-        .column1 {          
-          float: left;
-          width: 45%;
-          margin-bottom: 1px;
-          margin-top: 1px;
-          margin-left: 8px;
-          margin-right: 8px;
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        .column {
+            float: left;
+            width: 33.3%;
+            margin-bottom: 16px;
+            padding: 0 8px;
+        }
+
+        .column1 {
+            float: left;
+            width: 45%;
+            margin-bottom: 1px;
+            margin-top: 1px;
+            margin-left: 8px;
+            margin-right: 8px;
         }
 
         .column2 {
-          float: left;
-          width: 20%;
+            float: left;
+            width: 20%;
         }
-        
+
         .card {
-          border: 2px solid rgb(131, 142, 164);
-          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-          margin: 55px;
-        }    
-        
+            border: 2px solid rgb(131, 142, 164);
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            margin: 55px;
+        }
+
         .container {
-          padding: 0 8px 0 8px;          
-          color: rgb(73, 73, 73);
+            padding: 0 8px 0 8px;
+            color: rgb(73, 73, 73);
         }
-        
-        .container::after, .row::after {
-          content: "";
-          clear: both;
-          display: table;
+
+        .container::after,
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
         }
-        
-        
+
+
         .about-section {
-            padding: 15px 20px 15px 20px;;
+            padding: 15px 20px 15px 20px;
+            ;
             text-align: left;
             background-color: #dbdfe6;
             color: rgb(73, 73, 73);
@@ -100,29 +104,28 @@
             padding: 1px 1px 1px 1px;
             text-align: center;
             background-color: #eaebee;
-            color: rgb(73, 73, 73);            
+            color: rgb(73, 73, 73);
         }
 
         .button {
-          border: none;
-          outline: 0;
-          display: inline-block;
-          padding: 8px;
-          color: rgb(228, 227, 227);
-          background-color: rgb(78, 85, 99);
-          text-align: center;
-          cursor: pointer;
-          width: 100%;
-          -webkit-border-radius: 6px;
-          -moz-border-radius: 6px;
-          -ms-border-radius: 6px;
-          -o-border-radius: 6px;
+            border: none;
+            outline: 0;
+            display: inline-block;
+            padding: 8px;
+            color: rgb(228, 227, 227);
+            background-color: rgb(78, 85, 99);
+            text-align: center;
+            cursor: pointer;
+            width: 100%;
+            -webkit-border-radius: 6px;
+            -moz-border-radius: 6px;
+            -ms-border-radius: 6px;
+            -o-border-radius: 6px;
         }
-        
+
         .button:hover {
-          background-color: #555;
+            background-color: #555;
         }
-        
     </style>
 </head>
 
@@ -137,295 +140,298 @@
                 padding: 2rem 2rem;
                 width: 100%;
                 margin: 0 auto;">
-        
-        <div class="about-section">
-            <h2 >
-                Short description:
-            </h2>
-            <h3 style="
+
+            <div class="about-section">
+                <h2>
+                    Short description:
+                </h2>
+                <h3 style="
                 font-size: 1.0rem;
                 font-weight: 700;
                 margin-bottom: 0 rem;">
-                This is about finding affordable school supplies for everyday learning, and the links where they can be
-                purchased.
-            </h3>
-        </div>
-            
-            
+                    This is about finding affordable school supplies for everyday learning, and the links where they can
+                    be
+                    purchased.
+                </h3>
+            </div>
+
+
         </div>
     </header>
-    <div id="cards-container"></div>
     <div class="row">
-    <div class="column">
-        <div class="card">
-            <div class="category-title">
-                <h2 >Pens</h2>  
-            </div>            
-            <div class="container">
-                <div class="row">
-                <div class="column1">
-                    <p style="text-align:center;"><img src="./images/Pen.png"  style="width:80%;"></p>
+        <div class="column">
+            <div class="card">
+                <div class="category-title">
+                    <h2>Pens</h2>
                 </div>
-                    <div class="column1">
-                        <h3>Our chouce!</h3>
-                        <h2>$13.99</h2>
-                        <div class="row">
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p> 
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                       
-                                <p style="text-align:center;"><img src="./images/Star4.png"  style="width:100%;"></p>
+                <div class="container">
+                    <div class="row">
+                        <div class="column1">
+                            <p style="text-align:center;"><img src="./images/Pen.png" style="width:80%;"></p>
+                        </div>
+                        <div class="column1">
+                            <h3>Our chouce!</h3>
+                            <h2>$13.99</h2>
+                            <div class="row">
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="row">
-                    <div class="column1">
-                        <p><button class="button">Explore options</button></p>     
+                    <div class="row">
+                        <div class="column1">
+                            <p><button class="button">Explore options</button></p>
+                        </div>
+                        <div class="column1">
+                            <p><button class="button"
+                                    onclick="location.href='https://www.amazon.com/Sharpie-S-Gel-Point-1-0mm-Black/dp/B082PMXT2M/ref=sr_1_22?crid=2GLU92YN1B0NM&keywords=Gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%3B&qid=1650499937&sprefix=gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%2B%2Caps%2C160&sr=8-22&th=1'">Amazon</button>
+                            </p>
+                        </div>
                     </div>
-                    <div class="column1">                      
-                        <p><button class="button" onclick="location.href='https://www.amazon.com/Sharpie-S-Gel-Point-1-0mm-Black/dp/B082PMXT2M/ref=sr_1_22?crid=2GLU92YN1B0NM&keywords=Gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%3B&qid=1650499937&sprefix=gel%2Bpen%2Bwith%2Bno%2Bsmear%2C%2Bno%2Bbleed%2Btechnology%2B%2Caps%2C160&sr=8-22&th=1'">Amazon</button></p>    
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="category-title">
+                    <h2>Notebooks</h2>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="column1">
+                            <p style="text-align:center;"><img src="./images/Notebook.png" style="width:80%;"></p>
+                        </div>
+                        <div class="column1">
+                            <h3>Our chouce!</h3>
+                            <h2>$8.52</h2>
+                            <div class="row">
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="column1">
+                            <p><button class="button">Explore options</button></p>
+                        </div>
+                        <div class="column1">
+                            <p><button class="button">Amazon</button></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="category-title">
+                    <h2>Prnter paper</h2>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="column1">
+                            <p style="text-align:center;"><img src="./images/Printer Paper.png" style="width:80%;"></p>
+                        </div>
+                        <div class="column1">
+                            <h3>Our chouce!</h3>
+                            <h2>$18.88</h2>
+                            <div class="row">
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="column1">
+                            <p><button class="button">Explore options</button></p>
+                        </div>
+                        <div class="column1">
+                            <p><button class="button">Amazon</button></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="category-title">
+                    <h2>Pencils</h2>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="column1">
+                            <p style="text-align:center;"><img src="./images/Pencil.png" style="width:80%;"></p>
+                        </div>
+                        <div class="column1">
+                            <h3>Our chouce!</h3>
+                            <h2>$4.62</h2>
+                            <div class="row">
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="column1">
+                            <p><button class="button">Explore options</button></p>
+                        </div>
+                        <div class="column1">
+                            <p><button class="button">Amazon</button></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="category-title">
+                    <h2>Calculator</h2>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="column1">
+                            <p style="text-align:center;"><img src="./images/Printer Paper.png" style="width:80%;"></p>
+                        </div>
+                        <div class="column1">
+                            <h3>Our chouce!</h3>
+                            <h2>$18.79</h2>
+                            <div class="row">
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="column1">
+                            <p><button class="button">Explore options</button></p>
+                        </div>
+                        <div class="column1">
+                            <p><button class="button">Amazon</button></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="card">
+                <div class="category-title">
+                    <h2>Erasers</h2>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="column1">
+                            <p style="text-align:center;"><img src="./images/Eraser.png" style="width:80%;"></p>
+                        </div>
+                        <div class="column1">
+                            <h3>Our chouce!</h3>
+                            <h2>$1.69</h2>
+                            <div class="row">
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
+                                </div>
+                                <div class="column2">
+                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="column1">
+                            <p><button class="button">Explore options</button></p>
+                        </div>
+                        <div class="column1">
+                            <p><button class="button">Amazon</button></p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-    <div class="column">
-        <div class="card">
-            <div class="category-title">
-                <h2 >Notebooks</h2>  
-            </div>            
-            <div class="container">
-                <div class="row">
-                    <div class="column1">
-                        <p style="text-align:center;"><img src="./images/Notebook.png"  style="width:80%;"></p>
-                    </div>
-                    <div class="column1">
-                        <h3>Our chouce!</h3>
-                        <h2>$8.52</h2>
-                        <div class="row">
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p> 
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                       
-                                <p style="text-align:center;"><img src="./images/Star4.png"  style="width:100%;"></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="column1">
-                        <p><button class="button">Explore options</button></p>     
-                    </div>
-                    <div class="column1">                      
-                        <p><button class="button">Amazon</button></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="column">
-        <div class="card">
-            <div class="category-title">
-                <h2 >Prnter paper</h2>  
-            </div>            
-            <div class="container">
-                <div class="row">
-                    <div class="column1">
-                        <p style="text-align:center;"><img src="./images/Printer Paper.png"  style="width:80%;"></p>
-                    </div>
-                    <div class="column1">
-                        <h3>Our chouce!</h3>
-                        <h2>$18.88</h2>
-                        <div class="row">
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p> 
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                       
-                                <p style="text-align:center;"><img src="./images/Star4.png"  style="width:100%;"></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="column1">
-                        <p><button class="button">Explore options</button></p>     
-                    </div>
-                    <div class="column1">                      
-                        <p><button class="button">Amazon</button></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="column">
-        <div class="card">
-            <div class="category-title">
-                <h2 >Pencils</h2>  
-            </div>            
-            <div class="container">
-                <div class="row">
-                    <div class="column1">
-                        <p style="text-align:center;"><img src="./images/Pencil.png"  style="width:80%;"></p>
-                    </div>
-                    <div class="column1">
-                        <h3>Our chouce!</h3>
-                        <h2>$4.62</h2>
-                        <div class="row">
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p> 
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                       
-                                <p style="text-align:center;"><img src="./images/Star4.png"  style="width:100%;"></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="column1">
-                        <p><button class="button">Explore options</button></p>     
-                    </div>
-                    <div class="column1">                      
-                        <p><button class="button">Amazon</button></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="column">
-        <div class="card">
-            <div class="category-title">
-                <h2 >Calculator</h2>  
-            </div>            
-            <div class="container">
-                <div class="row">
-                    <div class="column1">
-                        <p style="text-align:center;"><img src="./images/Printer Paper.png"  style="width:80%;"></p>
-                    </div>
-                    <div class="column1">
-                        <h3>Our chouce!</h3>
-                        <h2>$18.79</h2>
-                        <div class="row">
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p> 
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                       
-                                <p style="text-align:center;"><img src="./images/Star4.png"  style="width:100%;"></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="column1">
-                        <p><button class="button">Explore options</button></p>     
-                    </div>
-                    <div class="column1">                      
-                        <p><button class="button">Amazon</button></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="column">
-        <div class="card">
-            <div class="category-title">
-                <h2 >Erasers</h2>  
-            </div>            
-            <div class="container">
-                <div class="row">
-                    <div class="column1">
-                        <p style="text-align:center;"><img src="./images/Eraser.png"  style="width:80%;"></p>
-                    </div>
-                    <div class="column1">
-                        <h3>Our chouce!</h3>
-                        <h2>$1.69</h2>
-                        <div class="row">
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p> 
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                            
-                                <p style="text-align:center;"><img src="./images/Star1.png"  style="width:100%;"></p>
-                            </div>
-                            <div class="column2">                       
-                                <p style="text-align:center;"><img src="./images/Star4.png"  style="width:100%;"></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="column1">
-                        <p><button class="button">Explore options</button></p>     
-                    </div>
-                    <div class="column1">                      
-                        <p><button class="button">Amazon</button></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    </div>
+    <div id="cards-container"></div>
 </body>
 <footer>
     <script>
