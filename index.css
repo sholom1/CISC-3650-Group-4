@@ -113,3 +113,14 @@ html {
 .button:hover {
   background-color: #555;
 }
+
+#cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+#cards-container .card {
+  display: flex;
+  flex-basis: calc(33% - 20px);
+  margin: 0px;
+}
