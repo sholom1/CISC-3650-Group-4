@@ -9,6 +9,13 @@
 
 
     <style>
+        .text-box {
+                background-color: #f1f1f1;
+                padding-inline-start: 20px;
+                text-align: left;
+                line-height: 120%;
+            }
+
         ul.breadcrumb {
             padding: 10px 16px;
             list-style: none;
@@ -29,7 +36,7 @@
         ul.breadcrumb li a {
             font-weight: bold;
             font-weight: medium;
-            color: #a07c04;
+            color: black;
             text-decoration: none;
         }
 
@@ -69,11 +76,19 @@
 <body>
     <div id="navbar-container"></div>
     <ul class="breadcrumb">
-        <img src="https://raw.githubusercontent.com/sholom1/CISC-3650-Group-4/main/Logo.png">
-        <br>
         <li><a href="#">Home</a></li>
-        <li><a href="#">Details</a></li>
+        <li><a href="#">Categories</a></li>
     </ul>
+
+    <p class="text-box">
+        Each category contains 4 products from Amazon and 2 products from each of the following online retailers: Walmart, Target, and Staples. Amazon has the largest assortment of products and it is the most popular online store. That’s why we have provided more product lines for you to choose from this retailer.
+        <br>When choosing products, we took into account the following factors:
+        <br>* Rating and popularity of the item. Only items with the most reviews and ratings in the range of  4.5-5.0 were taken into account. We believe that, although online ratings are not always fair, products with high popularity and ratings are more trustworthy than products without such indicators.
+        <br>* The number of goods. We took into account that students, and most people, do not want to deal with buying school supplies every month. The most optimal is to buy once a year or half a year. Therefore, when choosing a product, we chose such a quantity that it would be enough for this period of time.
+        <br>* Price and price per piece. We excluded expensive items, because our audience, students, most likely will immediately refuse to purchase such goods. Another important factor was the price per piece. As a rule, the more goods in the package, the cheaper each piece comes out.
+        <br>* Merchandise brand. Preference was given to well-known manufacturers with a long history. A well-known brand is already an indicator of quality.
+        <br>* Our experience. More than half of the selected items were purchased and used by us. Our approval of quality has also had a significant impact on the range chosen.
+    </p>
 
     <h2>Shopping List</h2>
     <table id='table'>
