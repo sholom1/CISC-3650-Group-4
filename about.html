@@ -7,36 +7,49 @@
   <link rel="stylesheet" href="./navbar.css">
   <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
   <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      margin: 0;
+    .text-box {
+      background-color: #f1f1f1;
+      padding-inline-start: 20px;
+      text-align: left;
+      line-height: 120%;
+    }
+
+    p{
+      font-family: "Gill Sans", sans-serif;
+      background-color: #f2d48f;
+      padding: 10px 16px;
+      list-style: none;
     }
 
     ul.breadcrumb {
-        padding: 10px 35px;
-        list-style: none;
-        background-color: white;
+      font-family: "Gill Sans", sans-serif;
+      padding: 10px 16px;
+      list-style: none;
+      background-color: #f2d48f;
     }
 
     ul.breadcrumb li {
-        display: inline-block;
-        font-size: 16px;
-        
+      display: inline-block;
+      font-size: 18px;
     }
 
     ul.breadcrumb li+li:before {
-        padding: 2px;
-        content: ">\00a0";
-        
+      padding: 2px;
+      color: rgb(168, 123, 0);
+      content: ">\00a0";
     }
 
     ul.breadcrumb li a {
-        font-weight: bold;
-        font-weight: medium;
-        color: black;
-        text-decoration: none;
-        text-decoration: underline;
+      font-weight: medium;
+      color: black;
+      text-decoration: none;
     }
+
+    ul.breadcrumb li a:hover {
+      color: #0482d1;
+      text-decoration: underline;
+    }
+
 
     html {
       box-sizing: border-box;
@@ -49,11 +62,11 @@
     }
 
     .card {
-      margin: 10px 130px;
+      margin: 30px 150px;
     }
 
     .container {
-      padding: 5px 5px;
+      padding: 10px 16px;
     }
 
     .container::after,
@@ -62,81 +75,41 @@
       clear: both;
       display: table;
     }
-
-    div.a {
-      text-indent: 20px;
-    }
-    
   </style>
 </head>
+
+
 
 <body>
 
   <div id="navbar-container"></div>
-
   <ul class="breadcrumb">
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
+    <li><a href="./index.html">Home</a></li>
+    <li><a href="./about.html">About Us</a></li>
   </ul>
 
   <div class="card">
     <div class="container">
-      <div class="a">
       <p style="line-height:1.8">
         <font size="+1">
           Created by Brooklyn College students for students and faculty, we designed this site to ease finding
-        economical school supplies for daily studies. We have curated a list of quality school supplies we found at the
-        best available prices. We are not a retailer and earn no commission on any purchases made by our recommendation.
-        We also do not collect any personal information nor will redirect to any malicious sites. Prices are not
-        guaranteed to be accurate and may change based on the retailer's discretion.
-        </font>      
+          economical school supplies for daily studies. We have curated a list of quality school supplies we found at
+          the
+          best available prices. We are not a retailer and earn no commission on any purchases made by our
+          recommendation.
+          We also do not collect any personal information nor will redirect to any malicious sites. Prices are not
+          guaranteed to be accurate and may change based on the retailer's discretion.
+        </font>
       </p>
-      <p style="line-height:1.8">
-        <font size="+1">
-          Each category contains 4 products from Amazon and 2 products from each of the following online retailers: Walmart, Target, and Staples. Amazon has the largest assortment of products and it is the most popular online store. That’s why we have provided more product lines for you to choose from this retailer.
-        </font>      
-      </p>
-      <p style="line-height:1.8">
-        <font size="+1">
-          When choosing products, we took into account the following factors:
-        </font>      
-      </p>
-      </div>
-      <p style="line-height:1.8">
-        <font size="+1">
-          * Rating and popularity of the item. Only items with the most reviews and ratings in the range of  4.5-5.0 were taken into account. We believe that, although online ratings are not always fair, products with high popularity and ratings are more trustworthy than products without such indicators.
-        </font>      
-      </p>
-      <p style="line-height:1.8">
-        <font size="+1">
-          * The number of goods. We took into account that students, and most people, do not want to deal with buying school supplies every month. The most optimal is to buy once a year or half a year. Therefore, when choosing a product, we chose such a quantity that it would be enough for this period of time.
-        </font>      
-      </p>
-      <p style="line-height:1.8">
-        <font size="+1">
-          * Price and price per piece. We excluded expensive items, because our audience, students, most likely will immediately refuse to purchase such goods. Another important factor was the price per piece. As a rule, the more goods in the package, the cheaper each piece comes out.
-        </font>      
-      </p>
-      <p style="line-height:1.8">
-        <font size="+1">
-          * Merchandise brand. Preference was given to well-known manufacturers with a long history. A well-known brand is already an indicator of quality.
-        </font>      
-      </p>
-      <p style="line-height:1.8">
-        <font size="+1">
-          * Our experience. More than half of the selected items were purchased and used by us. Our approval of quality has also had a significant impact on the range chosen.
-        </font>      
-      </p>
-    
     </div>
   </div>
   <div class="card">
     <div class="container">
       <h4>Credits:</h4>
-      <p><font size="+1">Sam Kessler</font></p>
-      <p><font size="+1">Ayrat Aymetov</font></p>
-      <p><font size="+1">Zuyu Mei</font></p>
-      <p><font size="+1">Xiaolin Zhu</font></p>
+      <ul>Sam Kessler</ul>
+      <ul>Ayrat Aymetov</ul>
+      <ul>Zuyu Mei</ul>
+      <ul>Xiaolin Zhu</ul>
     </div>
   </div>
 
