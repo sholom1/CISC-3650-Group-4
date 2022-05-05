@@ -11,131 +11,13 @@
     <link rel="stylesheet" href="./index.css">
     <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            margin: 0;
-        }
-
-        ul.breadcrumb {
-            padding: 10px 35px;
-            list-style: none;
-            background-color: white;
-        }
-
-        ul.breadcrumb li {
-            display: inline-block;
-            font-size: 16px;
-
-        }
-
-        ul.breadcrumb li+li:before {
-            padding: 2px;
-            content: ">\00a0";
-
-        }
-
-        ul.breadcrumb li a {
-            font-weight: bold;
-            font-weight: medium;
-            color: black;
-            text-decoration: none;
-            text-decoration: underline;
-        }
-
-        html {
-            box-sizing: border-box;
-        }
-
-        *,
-        *:before,
-        *:after {
-            box-sizing: inherit;
-        }
-
-        .column {
-            float: left;
-            width: 33.3%;
-            margin-bottom: 16px;
-            padding: 0 8px;
-        }
-
-        .column1 {
-            float: left;
-            width: 45%;
-            margin-bottom: 1px;
-            margin-top: 1px;
-            margin-left: 8px;
-            margin-right: 8px;
-        }
-
-        .column2 {
-            float: left;
-            width: 20%;
-        }
-
-        .card {
-            border: 2px solid rgb(131, 142, 164);
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-            margin: 55px;
-        }
-
-        .container {
-            padding: 0 8px 0 8px;
-            color: rgb(73, 73, 73);
-        }
-
-        .container::after,
-        .row::after {
-            content: "";
-            clear: both;
-            display: table;
-        }
-
-
-        .about-section {
-            padding: 15px 20px 15px 20px;
-            ;
-            text-align: left;
-            background-color: #dbdfe6;
-            color: rgb(73, 73, 73);
-        }
-
-        .category-title {
-            padding: 1px 1px 1px 1px;
-            text-align: center;
-            background-color: #eaebee;
-            color: rgb(73, 73, 73);
-        }
-
-        .button {
-            border: none;
-            outline: 0;
-            display: inline-block;
-            padding: 8px;
-            color: rgb(228, 227, 227);
-            background-color: rgb(78, 85, 99);
-            text-align: center;
-            cursor: pointer;
-            width: 100%;
-            -webkit-border-radius: 6px;
-            -moz-border-radius: 6px;
-            -ms-border-radius: 6px;
-            -o-border-radius: 6px;
-        }
-
-        .button:hover {
-            background-color: #555;
-        }
-    </style>
 </head>
 
 <body>
     <header>
         <div id="navbar-container"></div>
         <ul class="breadcrumb">
-            <li><a href="#">Home</a></li>
-            <li><a href="#"></a></li>
+            <li><a href="./index.html">Home ></a></li>
         </ul>
         <div className="header" style="    
                 padding: 2rem 2rem;
@@ -144,13 +26,13 @@
 
             <div class="about-section">
                 <h2>
-                    Short description:
+                    Welcome ♥
                 </h2>
                 <h3 style="
                 font-size: 1.0rem;
                 font-weight: 700;
                 margin-bottom: 0 rem;">
-                    This is about finding affordable school supplies for everyday learning, and the links where they can
+                    This page is about finding affordable school supplies for everyday learning, and the links where they can
                     be
                     purchased.
                 </h3>
@@ -171,7 +53,7 @@
                             <p style="text-align:center;"><img src="./images/Pen.png" style="width:80%;"></p>
                         </div>
                         <div class="column1">
-                            <h3>Our chouce!</h3>
+                            <h3>Our choice!</h3>
                             <h2>$13.99</h2>
                             <div class="row">
                                 <div class="column2">
@@ -187,7 +69,7 @@
                                     <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
                                 </div>
                                 <div class="column2">
-                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                    <p style="text-align:center;"><img src="./images/StarHalf.png" style="width:100%;"></p>
                                 </div>
                             </div>
                         </div>
@@ -195,7 +77,9 @@
 
                     <div class="row">
                         <div class="column1">
-                            <p><button class="button">Explore options</button></p>
+                            <p><button class="button"
+                                onclick="location.href='./category.html?name=PENS'"
+                                >Explore options</button></p>
                         </div>
                         <div class="column1">
                             <p><button class="button"
@@ -218,7 +102,7 @@
                             <p style="text-align:center;"><img src="./images/Notebook.png" style="width:80%;"></p>
                         </div>
                         <div class="column1">
-                            <h3>Our chouce!</h3>
+                            <h3>Nice Price!</h3>
                             <h2>$8.52</h2>
                             <div class="row">
                                 <div class="column2">
@@ -234,7 +118,7 @@
                                     <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
                                 </div>
                                 <div class="column2">
-                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                    <p style="text-align:center;"><img src="./images/Star2.png" style="width:100%;"></p>
                                 </div>
                             </div>
                         </div>
@@ -242,10 +126,14 @@
 
                     <div class="row">
                         <div class="column1">
-                            <p><button class="button">Explore options</button></p>
+                            <p><button class="button"
+                                onclick="location.href='./category.html?name=NOTEBOOKS'"
+                                >Explore options</button></p>
                         </div>
                         <div class="column1">
-                            <p><button class="button">Amazon</button></p>
+                            <p><button class="button"
+                                onclick="location.href='https://www.amazon.com/AmazonBasics-Wirebound-Notebook-100-Sheet-Assorted/dp/B07D2Q3JRZ/ref=sr_1_7?crid=37CJL38GTF4PS&keywords=notebook&qid=1650821615&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sprefix=n%2Caps%2C698&sr=1-7&th=1'"
+                                >Amazon</button></p>
                         </div>
                     </div>
                 </div>
@@ -255,7 +143,7 @@
         <div class="column">
             <div class="card">
                 <div class="category-title">
-                    <h2>Prnter paper</h2>
+                    <h2>Printer paper</h2>
                 </div>
                 <div class="container">
                     <div class="row">
@@ -263,8 +151,8 @@
                             <p style="text-align:center;"><img src="./images/Printer Paper.png" style="width:80%;"></p>
                         </div>
                         <div class="column1">
-                            <h3>Our chouce!</h3>
-                            <h2>$18.88</h2>
+                            <h3>Great Deal!</h3>
+                            <h2>$4.99</h2>
                             <div class="row">
                                 <div class="column2">
                                     <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
@@ -279,7 +167,7 @@
                                     <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
                                 </div>
                                 <div class="column2">
-                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                    <p style="text-align:center;"><img src="./images/StarHalf.png" style="width:100%;"></p>
                                 </div>
                             </div>
                         </div>
@@ -287,10 +175,14 @@
 
                     <div class="row">
                         <div class="column1">
-                            <p><button class="button">Explore options</button></p>
+                            <p><button class="button"
+                                onclick="location.href='./category.html?name=PRINTER_PAPER'"
+                                >Explore options</button></p>
                         </div>
                         <div class="column1">
-                            <p><button class="button">Amazon</button></p>
+                            <p><button class="button"
+                            onclick="location.href='https://www.target.com/p/500ct-letter-printer-paper-white-up-38-up-8482/-/A-75001545#lnk=sametab'"
+                            >Target</button></p>
                         </div>
                     </div>
                 </div>
@@ -308,8 +200,8 @@
                             <p style="text-align:center;"><img src="./images/Pencil.png" style="width:80%;"></p>
                         </div>
                         <div class="column1">
-                            <h3>Our chouce!</h3>
-                            <h2>$4.62</h2>
+                            <h3>Can't Miss It!</h3>
+                            <h2>$6.59</h2>
                             <div class="row">
                                 <div class="column2">
                                     <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
@@ -324,7 +216,7 @@
                                     <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
                                 </div>
                                 <div class="column2">
-                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                    <p style="text-align:center;"><img src="./images/Star2.png" style="width:100%;"></p>
                                 </div>
                             </div>
                         </div>
@@ -332,10 +224,14 @@
 
                     <div class="row">
                         <div class="column1">
-                            <p><button class="button">Explore options</button></p>
+                            <p><button class="button"
+                                onclick="location.href='./category.html?name=PENCILS'"
+                                >Explore options</button></p>
                         </div>
                         <div class="column1">
-                            <p><button class="button">Amazon</button></p>
+                            <p><button class="button"
+                                onclick="location.href='https://www.staples.com/Dixon-Ticonderoga-Presharpened-2-Pencil-Yellow-18-Pack/product_731727'"
+                            >Staples</button></p>
                         </div>
                     </div>
                 </div>
@@ -353,8 +249,8 @@
                             <p style="text-align:center;"><img src="./images/Printer Paper.png" style="width:80%;"></p>
                         </div>
                         <div class="column1">
-                            <h3>Our chouce!</h3>
-                            <h2>$18.79</h2>
+                            <h3>Worthwhile~</h3>
+                            <h2>$12.69</h2>
                             <div class="row">
                                 <div class="column2">
                                     <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
@@ -369,7 +265,7 @@
                                     <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
                                 </div>
                                 <div class="column2">
-                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                    <p style="text-align:center;"><img src="./images/Star2.png" style="width:100%;"></p>
                                 </div>
                             </div>
                         </div>
@@ -377,10 +273,14 @@
 
                     <div class="row">
                         <div class="column1">
-                            <p><button class="button">Explore options</button></p>
+                            <p><button class="button"
+                                onclick="location.href='./category.html?name=CALCULATORS'"
+                                >Explore options</button></p>
                         </div>
                         <div class="column1">
-                            <p><button class="button">Amazon</button></p>
+                            <p><button class="button"
+                                onclick="location.href='https://www.walmart.com/ip/Casio-FX-300ESPLUS2-Scientific-Calculator-Natural-Textbook-Display-Black/390150164?athbdg=L1300'"
+                                >Walmart</button></p>
                         </div>
                     </div>
                 </div>
@@ -398,7 +298,7 @@
                             <p style="text-align:center;"><img src="./images/Eraser.png" style="width:80%;"></p>
                         </div>
                         <div class="column1">
-                            <h3>Our chouce!</h3>
+                            <h3>This Is One!</h3>
                             <h2>$1.69</h2>
                             <div class="row">
                                 <div class="column2">
@@ -414,7 +314,7 @@
                                     <p style="text-align:center;"><img src="./images/Star1.png" style="width:100%;"></p>
                                 </div>
                                 <div class="column2">
-                                    <p style="text-align:center;"><img src="./images/Star4.png" style="width:100%;"></p>
+                                    <p style="text-align:center;"><img src="./images/StarHalf.png" style="width:100%;"></p>
                                 </div>
                             </div>
                         </div>
@@ -422,10 +322,14 @@
 
                     <div class="row">
                         <div class="column1">
-                            <p><button class="button">Explore options</button></p>
+                            <p><button class="button"
+                                onclick="location.href='./category.html?name=ERASERS'"
+                                >Explore options</button></p>
                         </div>
                         <div class="column1">
-                            <p><button class="button">Amazon</button></p>
+                            <p><button class="button"
+                                onclick="location.href='https://www.amazon.com/Paper-Mate-Pearl-Erasers-70501/dp/B00006IFAQ/ref=sr_1_4_mod_primary_new?crid=1SDVXPFF6TCQO&keywords=erasers&qid=1650823352&refinements=p_72%3A1248945011&rnid=1248943011&s=office-products&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=eraser%2Coffice-products%2C956&sr=1-4'"
+                                >Amazon</button></p>
                         </div>
                     </div>
                 </div>
