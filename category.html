@@ -9,7 +9,7 @@
 
 
     <style>
-        p{
+        p {
             font-family: "Gill Sans", sans-serif;
         }
 
@@ -77,24 +77,34 @@
     <script src="./navbar.js"></script>
     <link rel="stylesheet" href="./navbar.css">
 </head>
+
 <body>
     <div id="navbar-container"></div>
     <ul class="breadcrumb">
         <li><a href="./index.html">Home</a></li>
         <li><a href="./category.html">Categories</a></li>
     </ul>
-
-    <p class="text-box">
-        Each category contains 4 products from Amazon and 2 products from each of the following online retailers: Walmart, Target, and Staples. Amazon has the largest assortment of products and it is the most popular online store. That’s why we have provided more product lines for you to choose from this retailer.
-        <br>When choosing products, we took into account the following factors:
-        <br>* Rating and popularity of the item. Only items with the most reviews and ratings in the range of  4.5-5.0 were taken into account. We believe that, although online ratings are not always fair, products with high popularity and ratings are more trustworthy than products without such indicators.
-        <br>* The number of goods. We took into account that students, and most people, do not want to deal with buying school supplies every month. The most optimal is to buy once a year or half a year. Therefore, when choosing a product, we chose such a quantity that it would be enough for this period of time.
-        <br>* Price and price per piece. We excluded expensive items, because our audience, students, most likely will immediately refuse to purchase such goods. Another important factor was the price per piece. As a rule, the more goods in the package, the cheaper each piece comes out.
-        <br>* Merchandise brand. Preference was given to well-known manufacturers with a long history. A well-known brand is already an indicator of quality.
-        <br>* Our experience. More than half of the selected items were purchased and used by us. Our approval of quality has also had a significant impact on the range chosen.
-    </p>
-
-    <h2>Shopping List</h2>
+    <div class="text-box">
+        <p>Each category contains 4 products from Amazon and 2 products from each of the following online retailers:
+            Walmart, Target, and Staples. Amazon has the largest assortment of products and it is the most popular
+            online store. That’s why we have provided more product lines for you to choose from this retailer.</p>
+        <p>When choosing products, we took into account the following factors:</p>
+        <ul>
+            <li>Rating and popularity of the item. Only items with the most reviews and ratings in the range of 4.5-5.0
+                were taken into account. We believe that, although online ratings are not always fair, products with
+                high popularity and ratings are more trustworthy than products without such indicators.</li>
+            <li>The number of goods. We took into account that students, and most people, do not want to deal with
+                buying school supplies every month. The most optimal is to buy once a year or half a year. Therefore,
+                when choosing a product, we chose such a quantity that it would be enough for this period of time.</li>
+            <li>Price and price per piece. We excluded expensive items, because our audience, students, most likely will
+                immediately refuse to purchase such goods. Another important factor was the price per piece. As a rule,
+                the more goods in the package, the cheaper each piece comes out.</li>
+            <li>Merchandise brand. Preference was given to well-known manufacturers with a long history. A well-known
+                brand is already an indicator of quality.</li>
+            <li>Our experience. More than half of the selected items were purchased and used by us. Our approval of
+                quality has also had a significant impact on the range chosen.</li>
+        </ul>
+    </div>
     <table id='table'>
         <tr>
             <th>Image</th>
@@ -105,7 +115,6 @@
             <th>Price per piece</th>
             <th>Link</th>
         </tr>
-
         <tbody id="myTable">
         </tbody>
     </table>
@@ -114,7 +123,8 @@
 
 </body>
 <footer>
-    <script>navbar("","navbar-container")</script>
+    <script>navbar("", "navbar-container")</script>
     <script>renderCategories("myTable")</script>
 </footer>
+
 </html>
